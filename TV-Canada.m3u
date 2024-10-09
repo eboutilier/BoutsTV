@@ -1,8 +1,8 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="CFGC-DT-2"tvg-id="Global.Ontario.CIII.HDTV.(GLBHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="2.1"group-title="Antenne / Antenna",Global
+#EXTINF:-1 tvg-name="CFGC-DT-2"tvg-id="Global.Ontario.CIII.HDTV.(GLBHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="2"group-title="Antenne / Antenna",Global
 
 https://
-#EXTINF:-1 tvg-name="CKNY-DT"tvg-id="CTV.Northern.Ontario.(North.Bay).HDTV.(CKNYHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CTV.png"tvg-chno="10.1"group-title="Antenne / Antenna",CTV North Bay
+#EXTINF:-1 tvg-name="CKNY-DT"tvg-id="CTV.Northern.Ontario.(North.Bay).HDTV.(CKNYHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CTV.png"tvg-chno="10"group-title="Antenne / Antenna",CTV North Bay
 
 https://
 #EXTINF:-1 tvg-name="CHCH-TV-6"tvg-id="CHCH.HDTV.(CHCHH).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCH.png"tvg-chno="32"group-title="Antenne / Antenna",CHCH
@@ -63,7 +63,8 @@ https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="113"group-title="Canada Français",ICI Télé Québec
 
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="114"group-title="Canada Français",ICI Télé Saguenay
+
+#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="114"group-title="Canada Français",ICI Télé Saguenay
 
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Saskatchewan"tvg-id="CBKFT.ICI.Radio-Canada.(Regina).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="115"group-title="Canada Français",ICI Télé Saskatchewan
