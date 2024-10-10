@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="CPAC.English.HD.(CPACH).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="200"group-title="Politique / Politics",CPAC EN
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="201"group-title="Politique / Politics",CPAC FR
-https://
+https://cpac-live.cdn.vustreams.com/groupa/live/08d4bc8a-8fa1-48de-add9-a1422f46249d/live.isml/.m3u8
 #EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislative.Assembly.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="202"group-title="Politique / Politics",ONT.PARL EN
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="203"group-title="Politique / Politics",ONT.PARL FR
