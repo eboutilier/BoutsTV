@@ -293,7 +293,7 @@ https://mbsradio.leanstream.co/CHLQFM-MP3
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Drummondville.png" group-title="LHJMQ / QMJHL" radio="true",Drummondville | CFID
 https://stream02.ustream.ca/cfid32.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Edmonton-1.png" group-title="CFL / LCF" radio="true",Edmonton | CHED
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Edmonton.png" group-title="CFL / LCF" radio="true",Edmonton | CHED
 http://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Edmonton.png" group-title="NHL / LNH" radio="true",Edmonton | CHED
 http://corus.leanstream.co/CHEDAM-MP3
