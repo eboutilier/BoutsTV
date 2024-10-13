@@ -255,209 +255,209 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-name="TBD"tvg-id="TBD.TV.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TBD.png"tvg-chno="404"group-title="USA English",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Abbotsford.png?raw=true" group-title="AHL / LAH" radio="true",Abbotsford | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Abbotsford.png" group-title="AHL / LAH" radio="true",Abbotsford | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Acadie-Bathurst.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Acadie-Bathurst.png" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Baie-Comeau.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | CHLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | CHLC
 https://stream2.statsradio.com:8120/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Barrie.png?raw=true" group-title="OHL" radio="true",Barrie | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Belleville.png?raw=true" group-title="AHL / LAH" radio="true",Belleville | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Belleville.png" group-title="AHL / LAH" radio="true",Belleville | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Blainville-Boisbriand.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Blainville-Boisbriand | CKLX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Blainville-Boisbriand.png" group-title="LHJMQ / QMJHL" radio="true",Blainville-Boisbriand | CKLX
 https://stream.bpmsports.ca/cklx.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Brampton.png?raw=true" group-title="OHL" radio="true",Brampton | CKNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Brampton.png" group-title="OHL" radio="true",Brampton | CKNT
 https://stream2.statsradio.com:8066/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="WHL" radio="true",Brandon | CKLQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Brandon.png" group-title="WHL" radio="true",Brandon | CKLQ
 https://icy.jpbgdigital.com/CKLQ.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Brantford.png?raw=true" group-title="OHL" radio="true",Brantford | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Brantford.png" group-title="OHL" radio="true",Brantford | ****
 https:/
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="CFL / LCF" radio="true",British Colombia | CKNW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-BritishColumbia.png" group-title="CFL / LCF" radio="true",British Colombia | CKNW
 https://live.leanstream.co/CKNWAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Calgary.png?raw=true" group-title="NHL / LNH" radio="true",Calgary | CFAC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" group-title="NHL / LNH" radio="true",Calgary | CFAC
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Calgary.png?raw=true" group-title="WHL" radio="true",Calgary | CFAC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Calgary.png" group-title="WHL" radio="true",Calgary | CFAC
 http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Calgary.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Calgary
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Calgary.png" group-title="Lacrosse / Crosse" radio="true",Calgary
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Calgary.png?raw=true" group-title="CFL / LCF" radio="true",Calgary | CHQR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Calgary.png" group-title="CFL / LCF" radio="true",Calgary | CHQR
 http://corus.leanstream.co/CHQRAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Calgary.png?raw=true" group-title="AHL / LAH" radio="true",Calgary | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Calgary.png" group-title="AHL / LAH" radio="true",Calgary | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-CapeBreton.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | CJCB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | CJCB
 https://mbsradio-ais.leanstream.co/CJCBAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Charlottetown.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Charlottetown | CHLQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Charlottetown.png" group-title="LHJMQ / QMJHL" radio="true",Charlottetown | CHLQ
 https://mbsradio.leanstream.co/CHLQFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Chicoutimi.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Chicoutimi | CJAB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Chicoutimi.png" group-title="LHJMQ / QMJHL" radio="true",Chicoutimi | CJAB
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Drummondville.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Drummondville | CFID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Drummondville.png" group-title="LHJMQ / QMJHL" radio="true",Drummondville | CFID
 https://stream02.ustream.ca/cfid32.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Edmonton-1.png?raw=true" group-title="CFL / LCF" radio="true",Edmonton | CHED
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Edmonton-1.png" group-title="CFL / LCF" radio="true",Edmonton | CHED
 http://corus.leanstream.co/CHEDAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Edmonton.png?raw=true" group-title="NHL / LNH" radio="true",Edmonton | CHED
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Edmonton.png" group-title="NHL / LNH" radio="true",Edmonton | CHED
 http://corus.leanstream.co/CHEDAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Edmonton.png?raw=true" group-title="WHL" radio="true",Edmonton | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Edmonton.png" group-title="WHL" radio="true",Edmonton | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Erie.png?raw=true" group-title="OHL" radio="true",Erie | WJET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | WJET
 https://stream.revma.ihrhls.com/zc8290/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Everett.png?raw=true" group-title="WHL" radio="true",Everett | KHEY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Everett.png" group-title="WHL" radio="true",Everett | KHEY
 https://stream.revma.ihrhls.com/zc5169/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Flint.png?raw=true" group-title="OHL" radio="true",Flint | WQUS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Flint.png" group-title="OHL" radio="true",Flint | WQUS
 https://live.amperwave.net/manifest/townsquare-wqusfmaac-hlsc3.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Gatineau.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Gatineau | CKOF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Gatineau.png" group-title="LHJMQ / QMJHL" radio="true",Gatineau | CKOF
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Guelph.png?raw=true" group-title="OHL" radio="true",Guelph | CJOY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Guelph.png" group-title="OHL" radio="true",Guelph | CJOY
 http://corus.leanstream.co/CJOYAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Halifax.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Halifax | CJNI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Halifax.png" group-title="LHJMQ / QMJHL" radio="true",Halifax | CJNI
 https://rogers.leanstream.co/rogers/hal957.stream/icy
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Halifax.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Halifax | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Halifax.png" group-title="Lacrosse / Crosse" radio="true",Halifax | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Hamilton.png?raw=true" group-title="CFL / LCF" radio="true",Hamilton | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Hamilton.png" group-title="CFL / LCF" radio="true",Hamilton | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="WHL" radio="true",Kamloops | CHNL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kamloops.png" group-title="WHL" radio="true",Kamloops | CHNL
 http://newcap.leanstream.co/CHNLAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="WHL" radio="true",Kelowna | CKLZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kelowna.png" group-title="WHL" radio="true",Kelowna | CKLZ
 https://stream.jpbgdigital.com/CKLZ.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kingston.png?raw=true" group-title="OHL" radio="true",Kingston | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Kingston.png" group-title="OHL" radio="true",Kingston | ****
 http://live.leanstream.co/CKWSFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kitchener.png?raw=true" group-title="OHL" radio="true",Kitchener | CKGL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Kitchener.png" group-title="OHL" radio="true",Kitchener | CKGL
 https://rogers.leanstream.co/rogers/kit570.stream/icy?environment=tunein
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Laval.png?raw=true" group-title="AHL / LAH" radio="true",Laval | CKLX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Laval.png" group-title="AHL / LAH" radio="true",Laval | CKLX
 https://stream.bpmsports.ca/cklx.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Lethbridge.png?raw=true" group-title="WHL" radio="true",Lethbridge | CJRX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Lethbridge.png" group-title="WHL" radio="true",Lethbridge | CJRX
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-London.png?raw=true" group-title="OHL" radio="true",London | CFPL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-London.png" group-title="OHL" radio="true",London | CFPL
 https://entry-amms-1.leanstream-hd.com:2112/CFPLAM-2
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Manitoba.png?raw=true" group-title="AHL / LAH" radio="true",Manitoba | CJOB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Manitoba.png" group-title="AHL / LAH" radio="true",Manitoba | CJOB
 https://live.leanstream.co/CJOBAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MedicineHat.png?raw=true" group-title="WHL" radio="true",Medicine Hat | CHAT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MedicineHat.png" group-title="WHL" radio="true",Medicine Hat | CHAT
 https://redirect.jpbgdigital.com/CHAT.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Moncton.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Moncton | CITA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Moncton.png" group-title="LHJMQ / QMJHL" radio="true",Moncton | CITA
 https://harvestersciog.radioca.st/CIOG
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="CFL / LCF" radio="true",Montréal EN | CKGM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Montreal.png" group-title="CFL / LCF" radio="true",Montréal EN | CKGM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="CFL / LCF" radio="true",Montréal FR | CHMP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Montreal.png" group-title="CFL / LCF" radio="true",Montréal FR | CHMP
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="NHL / LNH" radio="true",Montréal EN | CKGM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Montreal.png" group-title="NHL / LNH" radio="true",Montréal EN | CKGM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="NHL / LNH" radio="true",Montréal FR | CHMP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Montreal.png" group-title="NHL / LNH" radio="true",Montréal FR | CHMP
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MooseJaw.png?raw=true" group-title="WHL" radio="true",Moose Jaw | CILG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MooseJaw.png" group-title="WHL" radio="true",Moose Jaw | CILG
 https://goldenwest.leanstream.co/CILGFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="OHL" radio="true",Niagara | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Niagara.png" group-title="OHL" radio="true",Niagara | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-NorthBay.png?raw=true" group-title="OHL" radio="true",North Bay | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-NorthBay.png" group-title="OHL" radio="true",North Bay | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Oshawa.png?raw=true" group-title="OHL" radio="true",Oshawa | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Oshawa.png" group-title="OHL" radio="true",Oshawa | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Ottawa.png?raw=true" group-title="OHL" radio="true",Ottawa | CFGO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Ottawa.png" group-title="OHL" radio="true",Ottawa | CFGO
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Ottawa.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Ottawa | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Ottawa.png" group-title="Lacrosse / Crosse" radio="true",Ottawa | ****
 http://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="CFL / LCF" radio="true",Ottawa EN | CFGO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Ottawa.png" group-title="CFL / LCF" radio="true",Ottawa EN | CFGO
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="CFL / LCF" radio="true",Ottawa FR | CKOF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Ottawa.png" group-title="CFL / LCF" radio="true",Ottawa FR | CKOF
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="NHL / LNH" radio="true",Ottawa EN | CFGO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa EN | CFGO
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="NHL / LNH" radio="true",Ottawa FR | CJFO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa FR | CJFO
 https://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="Baseball" radio="true",Ottawa EN | CKDJ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa EN | CKDJ
 https://live.leanstream.co/CKDJFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="Baseball" radio="true",Ottawa FR | CJFO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa FR | CJFO
 https://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-OwenSound.png?raw=true" group-title="OHL" radio="true",Owen Sound | CFOS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-OwenSound.png" group-title="OHL" radio="true",Owen Sound | CFOS
 https://bayshore-ais.leanstream.co/CFOSAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Peterborough.png?raw=true" group-title="OHL" radio="true",Peterborough | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Peterborough.png" group-title="OHL" radio="true",Peterborough | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Portland.png?raw=true" group-title="WHL" radio="true",Portland | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Portland.png" group-title="WHL" radio="true",Portland | ****
 https:/
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceAlbert.png?raw=true" group-title="WHL" radio="true",Prince Albert | CKBI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceAlbert.png" group-title="WHL" radio="true",Prince Albert | CKBI
 https://redirect.jpbgdigital.com/CKBI.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceGeorge.png?raw=true" group-title="WHL" radio="true",Prince George | CIRX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceGeorge.png" group-title="WHL" radio="true",Prince George | CIRX
 https://vistaradio.streamb.live/SB00066
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Quebec.png?raw=true" group-title="Baseball" radio="true",Québec | CHYZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Quebec.png" group-title="Baseball" radio="true",Québec | CHYZ
 http://ecoutez.chyz.ca:8000/mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Quebec.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Québec | CHYZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Quebec.png" group-title="LHJMQ / QMJHL" radio="true",Québec | CHYZ
 http://ecoutez.chyz.ca:8000/mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-RedDeer.png?raw=true" group-title="WHL" radio="true",Red Deer | CFDV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-RedDeer.png" group-title="WHL" radio="true",Red Deer | CFDV
 https://redirect.jpbgdigital.com/CFDV.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="WHL" radio="true",Regina | CKRM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Regina.png" group-title="WHL" radio="true",Regina | CKRM
 https://aispool.streamon.fm/ais/CKRM.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Rimouski.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Rimouski | CIKI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rimouski.png" group-title="LHJMQ / QMJHL" radio="true",Rimouski | CIKI
 https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Rouyn-Noranda.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Rouyn-Noranda | CHUN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rouyn-Noranda.png" group-title="LHJMQ / QMJHL" radio="true",Rouyn-Noranda | CHUN
 http://stream.zoneplus.ca:9954/
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Saginaw.png?raw=true" group-title="OHL" radio="true",Saginaw | WSGW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Saginaw.png" group-title="OHL" radio="true",Saginaw | WSGW
 https://live.amperwave.net/direct/alphacorporate-wsgwammp3-ibc4
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-SaintJohn.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Saint John | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-SaintJohn.png" group-title="LHJMQ / QMJHL" radio="true",Saint John | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sarnia.png?raw=true" group-title="OHL" radio="true",Sarnia | CHOK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sarnia.png" group-title="OHL" radio="true",Sarnia | CHOK
 https://blackburn.leanstream.co/CHOKAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Saskatchewan.png?raw=true" group-title="CFL / LCF" radio="true",Saskatchewan | CKRM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Saskatchewan.png" group-title="CFL / LCF" radio="true",Saskatchewan | CKRM
 http://ckrm.streamon.fm:8000/CKRM-64k.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Saskatchewan.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Saskatchewan | CKBL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Saskatchewan.png" group-title="Lacrosse / Crosse" radio="true",Saskatchewan | CKBL
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKBLFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Saskatoon.png?raw=true" group-title="WHL" radio="true",Saskatoon | CJWW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Saskatoon.png" group-title="WHL" radio="true",Saskatoon | CJWW
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sault-Ste-Marie.png?raw=true" group-title="OHL" radio="true",Sault-Ste-Marie | WSUE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sault-Ste-Marie.png" group-title="OHL" radio="true",Sault-Ste-Marie | WSUE
 https://ice24.securenetsystems.net/WSUE
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Seattle.png?raw=true" group-title="WHL" radio="true",Seattle | KFNQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Seattle.png" group-title="WHL" radio="true",Seattle | KFNQ
 https://stream.revma.ihrhls.com/zc7747/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Shawinigan.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Shawinigan | CKOB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Shawinigan.png" group-title="LHJMQ / QMJHL" radio="true",Shawinigan | CKOB
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Sherbrooke.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Sherbrooke | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Sherbrooke.png" group-title="LHJMQ / QMJHL" radio="true",Sherbrooke | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Spokane.png?raw=true" group-title="WHL" radio="true",Spokane | KGA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Spokane.png" group-title="WHL" radio="true",Spokane | KGA
 https://ice6.securenetsystems.net/KGA
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sudbury.png?raw=true" group-title="OHL" radio="true",Sudbury | CKLU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sudbury.png" group-title="OHL" radio="true",Sudbury | CKLU
 http://ckluradio.laurentian.ca:88/broadwave.mp3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-SwiftCurrent.png?raw=true" group-title="WHL" radio="true",Swift Current | CIMG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-SwiftCurrent.png" group-title="WHL" radio="true",Swift Current | CIMG
 https://goldenwest.leanstream.co/CIMGFM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Toronto.png?raw=true" group-title="CFL / LCF" radio="true",Toronto | CHUM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Toronto.png" group-title="CFL / LCF" radio="true",Toronto | CHUM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/MLB-Toronto.png?raw=true" group-title="Baseball" radio="true",Toronto | CJCL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/MLB-Toronto.png" group-title="Baseball" radio="true",Toronto | CJCL
 https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Toronto.png?raw=true" group-title="NHL / LNH" radio="true",Toronto | CJCL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | CJCL
 https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Toronto.png?raw=true" group-title="NHL / LNH" radio="true",Toronto | CHUM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | CHUM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Toronto.png?raw=true" group-title="AHL / LAH" radio="true",Toronto | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Toronto.png" group-title="AHL / LAH" radio="true",Toronto | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NBA-Toronto.png?raw=true" group-title="Basketball" radio="true",Toronto | CHUM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NBA-Toronto.png" group-title="Basketball" radio="true",Toronto | CHUM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Toronto.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Toronto | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Toronto.png" group-title="Lacrosse / Crosse" radio="true",Toronto | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Tri-City.png?raw=true" group-title="WHL" radio="true",Tri-City | KFLD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Tri-City.png" group-title="WHL" radio="true",Tri-City | KFLD
 https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Trois-Rivieres.png?raw=true" group-title="Baseball" radio="true",Trois-Rivières | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | ****
 http://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Trois-Rivieres-1.png?raw=true" group-title="ECHL" radio="true",Trois-Rivières | CKOB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/ECHL-Trois-Rivieres-1.png" group-title="ECHL" radio="true",Trois-Rivières | CKOB
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Val-dOr.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Val-dOr.png" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NWL-Vancouver.png?raw=true" group-title="Baseball" radio="true",Vancouver | CISL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NWL-Vancouver.png" group-title="Baseball" radio="true",Vancouver | CISL
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Vancouver.png?raw=true" group-title="NHL / LNH" radio="true",Vancouver | CISL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | CISL
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Vancouver.png?raw=true" group-title="WHL" radio="true",Vancouver | CISL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Vancouver.png" group-title="WHL" radio="true",Vancouver | CISL
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Vancouver.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Vancouver | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Vancouver.png" group-title="Lacrosse / Crosse" radio="true",Vancouver | ****
 https://
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Victoria.png?raw=true" group-title="WHL" radio="true",Victoria | CJZN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | CJZN
 https://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Victoriaville.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | ****
 https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="OHL" radio="true",Windsor | CKLW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Windsor.png" group-title="OHL" radio="true",Windsor | CKLW
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Wenatchee.png?raw=true" group-title="WHL" radio="true",Wenatchee | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Wenatchee.png" group-title="WHL" radio="true",Wenatchee | ****
 https:/
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Winnipeg.png?raw=true" group-title="CFL / LCF" radio="true",Winnipeg | CJOB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Winnipeg.png" group-title="CFL / LCF" radio="true",Winnipeg | CJOB
 https://live.leanstream.co/CJOBAM-MP3
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Baseball" radio="true",Winnipeg | CJNU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | CJNU
 http://noasrv.caster.fm:10188/stream
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Winnipeg.png?raw=true" group-title="NHL / LNH" radio="true",Winnipeg | CJKR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | CJKR
 https://entry-amms-1.leanstream-hd.com:2112/CJKRFM-MP3-2
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Winnipeg.png?raw=true" group-title="NHL / LNH" radio="true",Winnipeg | CJOB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | CJOB
 https://live.leanstream.co/CJOBAM-MP3
