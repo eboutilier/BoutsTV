@@ -383,7 +383,7 @@ http://ecoutez.chyz.ca:8000/mp3
 http://ecoutez.chyz.ca:8000/mp3
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-RedDeer.png?raw=true" group-title="WHL" radio="true",Red Deer | CFDV
 https://redirect.jpbgdigital.com/CFDV.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="WHL" radio="true",Regina .. Pats • CKRM 620 AM
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="WHL" radio="true",Regina | CKRM
 https://aispool.streamon.fm/ais/CKRM.aac
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Rimouski.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Rimouski | CIKI
 https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC.aac
