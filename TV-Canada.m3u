@@ -1,131 +1,463 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="CFGC-DT-2"tvg-id="Global.Ontario.CIII.HDTV.(GLBHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="2"group-title="Antenne / Antenna",Global
+
 https://
 #EXTINF:-1 tvg-name="CKNY-DT"tvg-id="CTV.Northern.Ontario.(North.Bay).HDTV.(CKNYHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CTV.png"tvg-chno="10"group-title="Antenne / Antenna",CTV North Bay
+
 https://
 #EXTINF:-1 tvg-name="CHCH-TV-6"tvg-id="CHCH.HDTV.(CHCHH).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCH.png"tvg-chno="32"group-title="Antenne / Antenna",CHCH
+
 https://
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICIRDI.png"tvg-chno="100"group-title="Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+
 #EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-LCN.png"tvg-chno="101"group-title="Canada Français",LCN
+
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
+
 #EXTINF:-1 tvg-name="TVA"tvg-id="CFTM.TVA.HDTV.(Montreal).(TVAHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="102"group-title="Canada Français",TVA
+
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+
 #EXTINF:-1 tvg-name="ICI Télé Acadie"tvg-id="CBAFT.ICI.Radio-Canada.HDTV.(Moncton).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="103"group-title="Canada Français",ICI Télé Acadie
+
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Alberta"tvg-id="CBXFT.ICI.Radio-Canada.(Edmonton).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="104"group-title="Canada Français",ICI Télé Alberta
+
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé CB-Yukon"tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="105"group-title="Canada Français",ICI Télé CB-Yukon
+
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ICI.Radio-Canada.(Rimouski).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="106"group-title="Canada Français",ICI Télé Est-Québec
+
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="CKSH.ICI.Radio.Canada.HDTV.(Sherbrooke).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="107"group-title="Canada Français",ICI Télé Estrie
+
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Manitoba"tvg-id="CBWFT.ICI.Radio-Canada.(Winnipeg).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="108"group-title="Canada Français",ICI Télé Manitoba
+
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="CKTM.ICI.Radio-Canada.(Trois-Rivières).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="109"group-title="Canada Français",ICI Télé Mauricie
+
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Montréal"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="110"group-title="Canada Français",ICI Télé Montréal
+
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ICI.Radio-Canada.(Toronto).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="111"group-title="Canada Français",ICI Télé Ontario
+
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Ottawa-Gatineau"tvg-id="CBOFT.ICI.Radio-Canada.HDTV.(Ottawa).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="112"group-title="Canada Français",ICI Télé Ottawa-Gatineau
+
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="113"group-title="Canada Français",ICI Télé Québec
+
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="114"group-title="Canada Français",ICI Télé Saguenay
+
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Saskatchewan"tvg-id="CBKFT.ICI.Radio-Canada.(Regina).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="115"group-title="Canada Français",ICI Télé Saskatchewan
+
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
+
 #EXTINF:-1 tvg-name="ICI Télévision"tvg-id="ICI.Television.HDTV.(ICIHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITV.png"tvg-chno="116"group-title="Canada Français",ICI télévision
+
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
 #EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa"tvg-id="****************"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="117"group-title="Canada Français",Télé Témiscaming-Kipawa
+
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
+
+
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="CPAC.English.HD.(CPACH).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="200"group-title="Politique / Politics",CPAC EN
+
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
+
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.French.HD.(CPACFH).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="201"group-title="Politique / Politics",CPAC FR
+
+
 https://cpac-live.cdn.vustreams.com/groupa/live/08d4bc8a-8fa1-48de-add9-a1422f46249d/live.isml/.m3u8
 #EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislative.Assembly.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="202"group-title="Politique / Politics",ONT.PARL EN
+
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="203"group-title="Politique / Politics",ONT.PARL FR
+
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="ASSNA Québec"tvg-id="Assemblée.Nationale.(ASSNA).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="204"group-title="Politique / Politics",ASSNA Québec
+
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="CBC Calgary"tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="300"group-title="Canada English",CBC Calgary
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Charlottetown"tvg-id="CBHT.(CBCT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="301"group-title="Canada English",CBC Charlottetown
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Edmonton"tvg-id="CBC.Edmonton.HDTV.(CBXTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="302"group-title="Canada English",CBC Edmonton
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Fredericton"tvg-id="CBC.Fredericton.(CBAT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="303"group-title="Canada English",CBC Fredericton
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Halifax"tvg-id="CBHT.(CBCT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="304"group-title="Canada English",CBC Halifax
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Montreal"tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="305"group-title="Canada English",CBC Montreal
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Ottawa"tvg-id="CBOT.HDTV.(CBOTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="306"group-title="Canada English",CBC Ottawa
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Regina"tvg-id="CBC.Saskatchewan.(CBKT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="307"group-title="Canada English",CBC Regina
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC St Johns"tvg-id="CBNT.(CBNT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="308"group-title="Canada English",CBC St Johns
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Toronto"tvg-id="CBC.Toronto.HDTV.(CBLTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="309"group-title="Canada English",CBC Toronto
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Vancouver"tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="310"group-title="Canada English",CBC Vancouver
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Windsor"tvg-id="CBET.Windsor.(CBET).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="311"group-title="Canada English",CBC Windsor
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Winnipeg"tvg-id="CBC.Manitoba.HDTV.(CBWT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="312"group-title="Canada English",CBC Winnipeg
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+
 #EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CBC.North.(Yellowknife)/CFYK.(MTN).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="313"group-title="Canada English",CBC Yellowknife
+
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+
+
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="314"group-title="Canada English",Cable 14 Hamilton
+
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 #EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO.TV.(CHCO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="315"group-title="Canada English",CHCO-TV Saint Andrews (NB)
+
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+
+
 #EXTINF:-1 tvg-name="City News Toronto 24/7 "tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="316"group-title="Canada English",City News Toronto 24/7
+
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+
+
 #EXTINF:-1 tvg-name="Global News National"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="317"group-title="Canada English",Global News National
+
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News BC"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="318"group-title="Canada English",Global News BC
+
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Calgary"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="319"group-title="Canada English",Global News Calgary
+
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Edmonton"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="320"group-title="Canada English",Global News Edmonton
+
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Halifax"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="321"group-title="Canada English",Global News Halifax
+
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Kingston"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="322"group-title="Canada English",Global News Kingston
+
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9a/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="323"group-title="Canada English",Global News Montreal
+
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Okanagan"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="324"group-title="Canada English",Global News Okanagan
+
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Peterborough"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="325"group-title="Canada English",Global News Peterborough
+
 https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Regina"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="326"group-title="Canada English",Global News Regina
+
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Saskatoon"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="327"group-title="Canada English",Global News Saskatoon
+
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Toronto"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="328"group-title="Canada English",Global News Toronto
+
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="329"group-title="Canada English",Global News Winnipeg
+
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+
 #EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.(KNOW).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="330"group-title="Canada English",Knowledge Network
+
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
 #EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="331"group-title="Canada English",NTV Newfoundland
+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="332"group-title="Canada English",TVO Kids
+
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="333"group-title="Canada English",WCGtv Brandon (MB)
+
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+
 #EXTINF:-1 tvg-name="Charge!"tvg-id="Charge.TV.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Charge.png"tvg-chno="400"group-title="USA English",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-name="Comet"tvg-id="Comet.TV.(COMET).us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Comet.png"tvg-chno="401"group-title="USA English",Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
 #EXTINF:-1 tvg-name="PBS KET"tvg-id="Kentucky.Channel.(WKMJ-TV2).Lexington,.KY.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="402"group-title="USA English",PBS KET
+
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+
 #EXTINF:-1 tvg-name="PBS Maryland"tvg-id="PBS.(WMPT).Annapolis,.MD.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="403"group-title="USA English",PBS Maryland
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-name="TBD"tvg-id="TBD.TV.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TBD.png"tvg-chno="404"group-title="USA English",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Abbotsford.png?raw=true" group-title="AHL / LAH" radio="true",Abbotsford | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Acadie-Bathurst.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Baie-Comeau.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | CHLC
+https://stream2.statsradio.com:8120/stream
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Barrie.png?raw=true" group-title="OHL" radio="true",Barrie | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Belleville.png?raw=true" group-title="AHL / LAH" radio="true",Belleville | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Blainville-Boisbriand.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Blainville-Boisbriand | CKLX
+https://stream.bpmsports.ca/cklx.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Brampton.png?raw=true" group-title="OHL" radio="true",Brampton | CKNT
+https://stream2.statsradio.com:8066/stream
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Brandon.png?raw=true" group-title="WHL" radio="true",Brandon | CKLQ
+https://icy.jpbgdigital.com/CKLQ.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Brantford.png?raw=true" group-title="OHL" radio="true",Brantford | ****
+https:/
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-BritishColumbia.png?raw=true" group-title="CFL / LCF" radio="true",British Colombia | CKNW
+https://live.leanstream.co/CKNWAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Calgary.png?raw=true" group-title="NHL / LNH" radio="true",Calgary | CFAC
+http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Calgary.png?raw=true" group-title="WHL" radio="true",Calgary | CFAC
+http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Calgary.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Calgary
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Calgary.png?raw=true" group-title="CFL / LCF" radio="true",Calgary | CHQR
+http://corus.leanstream.co/CHQRAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Calgary.png?raw=true" group-title="AHL / LAH" radio="true",Calgary | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-CapeBreton.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | CJCB
+https://mbsradio-ais.leanstream.co/CJCBAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Charlottetown.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Charlottetown | CHLQ
+https://mbsradio.leanstream.co/CHLQFM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Chicoutimi.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Chicoutimi | CJAB
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Drummondville.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Drummondville | CFID
+https://stream02.ustream.ca/cfid32.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Edmonton-1.png?raw=true" group-title="CFL / LCF" radio="true",Edmonton | CHED
+http://corus.leanstream.co/CHEDAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Edmonton.png?raw=true" group-title="NHL / LNH" radio="true",Edmonton | CHED
+http://corus.leanstream.co/CHEDAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Edmonton.png?raw=true" group-title="WHL" radio="true",Edmonton | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Erie.png?raw=true" group-title="OHL" radio="true",Erie | WJET
+https://stream.revma.ihrhls.com/zc8290/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Everett.png?raw=true" group-title="WHL" radio="true",Everett | KHEY
+https://stream.revma.ihrhls.com/zc5169/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Flint.png?raw=true" group-title="OHL" radio="true",Flint | WQUS
+https://live.amperwave.net/manifest/townsquare-wqusfmaac-hlsc3.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Gatineau.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Gatineau | CKOF
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Guelph.png?raw=true" group-title="OHL" radio="true",Guelph | CJOY
+http://corus.leanstream.co/CJOYAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Halifax.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Halifax | CJNI
+https://rogers.leanstream.co/rogers/hal957.stream/icy
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Halifax.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Halifax | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Hamilton.png?raw=true" group-title="CFL / LCF" radio="true",Hamilton | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kamloops.png?raw=true" group-title="WHL" radio="true",Kamloops | CHNL
+http://newcap.leanstream.co/CHNLAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Kelowna.png?raw=true" group-title="WHL" radio="true",Kelowna | CKLZ
+https://stream.jpbgdigital.com/CKLZ.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kingston.png?raw=true" group-title="OHL" radio="true",Kingston | ****
+http://live.leanstream.co/CKWSFM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Kitchener.png?raw=true" group-title="OHL" radio="true",Kitchener | CKGL
+https://rogers.leanstream.co/rogers/kit570.stream/icy?environment=tunein
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Laval.png?raw=true" group-title="AHL / LAH" radio="true",Laval | CKLX
+https://stream.bpmsports.ca/cklx.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Lethbridge.png?raw=true" group-title="WHL" radio="true",Lethbridge | CJRX
+https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-London.png?raw=true" group-title="OHL" radio="true",London | CFPL
+https://entry-amms-1.leanstream-hd.com:2112/CFPLAM-2
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Manitoba.png?raw=true" group-title="AHL / LAH" radio="true",Manitoba | CJOB
+https://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MedicineHat.png?raw=true" group-title="WHL" radio="true",Medicine Hat | CHAT
+https://redirect.jpbgdigital.com/CHAT.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Moncton.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Moncton | CITA
+https://harvestersciog.radioca.st/CIOG
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="CFL / LCF" radio="true",Montréal EN | CKGM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Montreal.png?raw=true" group-title="CFL / LCF" radio="true",Montréal FR | CHMP
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="NHL / LNH" radio="true",Montréal EN | CKGM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Montreal.png?raw=true" group-title="NHL / LNH" radio="true",Montréal FR | CHMP
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-MooseJaw.png?raw=true" group-title="WHL" radio="true",Moose Jaw | CILG
+https://goldenwest.leanstream.co/CILGFM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Niagara.png?raw=true" group-title="OHL" radio="true",Niagara | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-NorthBay.png?raw=true" group-title="OHL" radio="true",North Bay | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Oshawa.png?raw=true" group-title="OHL" radio="true",Oshawa | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Ottawa.png?raw=true" group-title="OHL" radio="true",Ottawa | CFGO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Ottawa.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Ottawa | ****
+http://stream2.statsradio.com:8038/stream
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="CFL / LCF" radio="true",Ottawa EN | CFGO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Ottawa.png?raw=true" group-title="CFL / LCF" radio="true",Ottawa FR | CKOF
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="NHL / LNH" radio="true",Ottawa EN | CFGO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Ottawa.png?raw=true" group-title="NHL / LNH" radio="true",Ottawa FR | CJFO
+https://stream2.statsradio.com:8038/stream
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="Baseball" radio="true",Ottawa EN | CKDJ
+https://live.leanstream.co/CKDJFM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Ottawa.png?raw=true" group-title="Baseball" radio="true",Ottawa FR | CJFO
+https://stream2.statsradio.com:8038/stream
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-OwenSound.png?raw=true" group-title="OHL" radio="true",Owen Sound | CFOS
+https://bayshore-ais.leanstream.co/CFOSAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Peterborough.png?raw=true" group-title="OHL" radio="true",Peterborough | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Portland.png?raw=true" group-title="WHL" radio="true",Portland | ****
+https:/
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceAlbert.png?raw=true" group-title="WHL" radio="true",Prince Albert | CKBI
+https://redirect.jpbgdigital.com/CKBI.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-PrinceGeorge.png?raw=true" group-title="WHL" radio="true",Prince George | CIRX
+https://vistaradio.streamb.live/SB00066
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Quebec.png?raw=true" group-title="Baseball" radio="true",Québec | CHYZ
+http://ecoutez.chyz.ca:8000/mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Quebec.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Québec | CHYZ
+http://ecoutez.chyz.ca:8000/mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-RedDeer.png?raw=true" group-title="WHL" radio="true",Red Deer | CFDV
+https://redirect.jpbgdigital.com/CFDV.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Regina.png?raw=true" group-title="WHL" radio="true",Regina .. Pats • CKRM 620 AM
+https://aispool.streamon.fm/ais/CKRM.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Rimouski.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Rimouski | CIKI
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Rouyn-Noranda.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Rouyn-Noranda | CHUN
+http://stream.zoneplus.ca:9954/
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Saginaw.png?raw=true" group-title="OHL" radio="true",Saginaw | WSGW
+https://live.amperwave.net/direct/alphacorporate-wsgwammp3-ibc4
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-SaintJohn.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Saint John | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sarnia.png?raw=true" group-title="OHL" radio="true",Sarnia | CHOK
+https://blackburn.leanstream.co/CHOKAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Saskatchewan.png?raw=true" group-title="CFL / LCF" radio="true",Saskatchewan | CKRM
+http://ckrm.streamon.fm:8000/CKRM-64k.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Saskatchewan.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Saskatchewan | CKBL
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKBLFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Saskatoon.png?raw=true" group-title="WHL" radio="true",Saskatoon | CJWW
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sault-Ste-Marie.png?raw=true" group-title="OHL" radio="true",Sault-Ste-Marie | WSUE
+https://ice24.securenetsystems.net/WSUE
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Seattle.png?raw=true" group-title="WHL" radio="true",Seattle | KFNQ
+https://stream.revma.ihrhls.com/zc7747/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Shawinigan.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Shawinigan | CKOB
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Sherbrooke.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Sherbrooke | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Spokane.png?raw=true" group-title="WHL" radio="true",Spokane | KGA
+https://ice6.securenetsystems.net/KGA
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Sudbury.png?raw=true" group-title="OHL" radio="true",Sudbury | CKLU
+http://ckluradio.laurentian.ca:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-SwiftCurrent.png?raw=true" group-title="WHL" radio="true",Swift Current | CIMG
+https://goldenwest.leanstream.co/CIMGFM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Toronto.png?raw=true" group-title="CFL / LCF" radio="true",Toronto | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/MLB-Toronto.png?raw=true" group-title="Baseball" radio="true",Toronto | CJCL
+https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Toronto.png?raw=true" group-title="NHL / LNH" radio="true",Toronto | CJCL
+https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Toronto.png?raw=true" group-title="NHL / LNH" radio="true",Toronto | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LAH-Toronto.png?raw=true" group-title="AHL / LAH" radio="true",Toronto | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NBA-Toronto.png?raw=true" group-title="Basketball" radio="true",Toronto | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Toronto.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Toronto | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Tri-City.png?raw=true" group-title="WHL" radio="true",Tri-City | KFLD
+https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/FL-Trois-Rivieres.png?raw=true" group-title="Baseball" radio="true",Trois-Rivières | ****
+http://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/ECHL-Trois-Rivieres-1.png?raw=true" group-title="ECHL" radio="true",Trois-Rivières | CKOB
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Val-dOr.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NWL-Vancouver.png?raw=true" group-title="Baseball" radio="true",Vancouver | CISL
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Vancouver.png?raw=true" group-title="NHL / LNH" radio="true",Vancouver | CISL
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Vancouver.png?raw=true" group-title="WHL" radio="true",Vancouver | CISL
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/NLL-Vancouver.png?raw=true" group-title="Lacrosse / Crosse" radio="true",Vancouver | ****
+https://
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Victoria.png?raw=true" group-title="WHL" radio="true",Victoria | CJZN
+https://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LHJMQ / QMJHL-Victoriaville.png?raw=true" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | ****
+https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/OHL-Windsor.png?raw=true" group-title="OHL" radio="true",Windsor | CKLW
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/WHL-Wenatchee.png?raw=true" group-title="WHL" radio="true",Wenatchee | ****
+https:/
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LCF-Winnipeg.png?raw=true" group-title="CFL / LCF" radio="true",Winnipeg | CJOB
+https://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/AA-Winnipeg.png?raw=true" group-title="Baseball" radio="true",Winnipeg | CJNU
+http://noasrv.caster.fm:10188/stream
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Winnipeg.png?raw=true" group-title="NHL / LNH" radio="true",Winnipeg | CJKR
+https://entry-amms-1.leanstream-hd.com:2112/CJKRFM-MP3-2
+#EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/LNH-Winnipeg.png?raw=true" group-title="NHL / LNH" radio="true",Winnipeg | CJOB
+https://live.leanstream.co/CJOBAM-MP3
