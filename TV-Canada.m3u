@@ -433,7 +433,7 @@ https://
 https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | Aigles | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/ECHL-Trois-Rivieres-1.png" group-title="ECHL" radio="true",Trois-Rivières | Lions | CKOB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/ECHL-Trois-Rivieres.png" group-title="ECHL" radio="true",Trois-Rivières | Lions | CKOB
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Val-dOr.png" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | Foreurs | ****
 https://
