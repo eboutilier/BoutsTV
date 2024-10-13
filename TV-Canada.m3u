@@ -259,7 +259,7 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&ex
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Acadie-Bathurst.png" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst, Titan | ****
 https:
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau, Drakkar | CHLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
 https://stream2.statsradio.com:8120/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | Colts | ****
 https://
