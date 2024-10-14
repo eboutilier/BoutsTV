@@ -255,10 +255,10 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-name="TBD"tvg-id="TBD.TV.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TBD.png"tvg-chno="404"group-title="USA English",TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Abbotsford.png" group-title="AHL / LAH" radio="true",Abbotsford, Canucks | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Abbotsford.png" group-title="AHL / LAH" radio="true",Abbotsford | Canucks | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Acadie-Bathurst.png" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst, Titan | ****
-https:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Acadie-Bathurst.png" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst | Titan | CKLE
+https://stream2.statsradio.com:8114/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
 https://stream2.statsradio.com:8120/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | Colts | ****
@@ -412,7 +412,7 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Spokane.png" group-title="WHL" radio="true",Spokane | Chiefs | KGA
 https://ice6.securenetsystems.net/KGA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sudbury.png" group-title="OHL" radio="true",Sudbury | Wolves | CKLU
-https://ckluradio.laurentian.ca:88/broadwave.mp3
+http://ckluradio.laurentian.ca:88/broadwave.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-SwiftCurrent.png" group-title="WHL" radio="true",Swift Current | Broncos | CIMG
 https://goldenwest.leanstream.co/CIMGFM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Toronto.png" group-title="CFL / LCF" radio="true",Toronto | Argonauts | CHUM
@@ -429,7 +429,7 @@ https://
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Toronto.png" group-title="Lacrosse / Crosse" radio="true",Toronto | Rock | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Tri-City.png" group-title="WHL" radio="true",Tri-City | Americans | KFLD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-TriCity.png" group-title="WHL" radio="true",Tri-City | Americans | KFLD
 https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | Aigles | ****
 https://
@@ -447,7 +447,7 @@ https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CJZN
 https://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | Tigres | ****
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | Tigres | Internet
 https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Windsor.png" group-title="OHL" radio="true",Windsor | Spitfires | CKLW
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
