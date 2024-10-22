@@ -103,6 +103,9 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m
 
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 
+#EXTINF:-1 tvg-name="CBC News Network"tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="300"group-title="Canada English",CBC News Network
+
+https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
 #EXTINF:-1 tvg-name="CBC Calgary"tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="300"group-title="Canada English",CBC Calgary
 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
