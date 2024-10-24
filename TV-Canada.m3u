@@ -448,8 +448,8 @@ https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Vancouver.png" group-title="Lacrosse / Crosse" radio="true",Vancouver | Warriors | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CJZN
-https://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CHTT
+https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | Tigres | Internet
 https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Windsor.png" group-title="OHL" radio="true",Windsor | Spitfires | CKLW
