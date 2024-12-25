@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Global"tvg-id="Global.(CIII-DT-41).Toronto.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="2"group-title="Antenne / Antenna",Global
 
 https://
-#EXTINF:-1 tvg-name="CTV North Bay"tvg-id="CTV.Northern.Ontario.(North.Bay).HDTV.(CKNYHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CTV.png"tvg-chno="10"group-title="Antenne / Antenna",CTV North Bay
+#EXTINF:-1 tvg-name="CTV North Bay"tvg-id="CTV.North.Bay.(CKNY-DT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CTV.png"tvg-chno="10"group-title="Antenne / Antenna",CTV North Bay
 
 https://
 #EXTINF:-1 tvg-name="CHCH"tvg-id="CHCH.Hamilton,.ON.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCH.png"tvg-chno="32"group-title="Antenne / Antenna",CHCH
@@ -157,7 +157,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5
 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
 
-#EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CBC.North.(Yellowknife)/CFYK.(MTN).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="314"group-title="Canada English",CBC Yellowknife
+#EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CBC.Yellowknife.(CFYK).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="314"group-title="Canada English",CBC Yellowknife
 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
@@ -165,7 +165,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="315"group-title="Canada English",Cable 14 Hamilton
 
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
-#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO.TV.(CHCO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="316"group-title="Canada English",CHCO-TV Saint Andrews (NB)
+#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO-TV.Saint.Andrews.(New.Brunswick).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="316"group-title="Canada English",CHCO-TV Saint Andrews (NB)
 
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
@@ -227,7 +227,7 @@ https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5f
 
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.(KNOW).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="331"group-title="Canada English",Knowledge Network
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="331"group-title="Canada English",Knowledge Network
 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
