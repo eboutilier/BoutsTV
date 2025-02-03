@@ -331,7 +331,7 @@ https://stream.bpmsports.ca/cklx.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Lethbridge.png" group-title="WHL" radio="true",Lethbridge | Hurricanes | CJRX
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-London.png" group-title="OHL" radio="true",London | Knights | CFPL
-https://entry-amms-1.leanstream-hd.com:2112/CFPLAM-2
+https://live.leanstream.co/CFPLAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Manitoba.png" group-title="AHL / LAH" radio="true",Manitoba | Moose | CJOB
 https://live.leanstream.co/CJOBAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MedicineHat.png" group-title="WHL" radio="true",Medicine Hat | Tigers | CHAT
