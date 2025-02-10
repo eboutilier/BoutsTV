@@ -71,11 +71,14 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télévision"tvg-id="ICI.Television.HDTV.(ICIHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITV.png"tvg-chno="116"group-title="Canada Français",ICI télévision
+#EXTINF:-1 tvg-name="ICI Télévision"tvg-id="ICI.Television.HDTV.(ICIHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITV.png"tvg-chno="116"group-title="Canada Français",ICI Télévision
 
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa"tvg-id="****************"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="117"group-title="Canada Français",Télé Témiscaming-Kipawa
+#EXTINF:-1 tvg-name="Télé-Quéebec"tvg-id="Tele-Quebec.(CIVM).Montreal.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TQ.png"tvg-chno="117"group-title="Canada Français",Télé-Québec
+https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa"tvg-id="****************"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="118"group-title="Canada Français",Télé Témiscaming-Kipawa
 
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
 
