@@ -89,9 +89,8 @@ https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1
 
 
 #EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.(Francais).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="201"group-title="Politique / Politics",CPAC FR
+https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
 
-
-https://cpac-live.cdn.vustreams.com/groupa/live/08d4bc8a-8fa1-48de-add9-a1422f46249d/live.isml/.m3u8
 #EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislative.Assembly.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="202"group-title="Politique / Politics",ONT.PARL EN
 
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
