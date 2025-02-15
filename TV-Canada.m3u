@@ -171,79 +171,89 @@ https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0
 
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
+#EXTINF:-1 tvg-name="City News Calgary "tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="317"group-title="Canada English",City News Calgary
 
-#EXTINF:-1 tvg-name="City News Toronto 24/7 "tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="317"group-title="Canada English",City News Toronto 24/7
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 tvg-name="City News Montréal"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="318"group-title="Canada English",City News Montreal
+
+https://dai.google.com/linear/hls/event/v6WfM9eaSjeioOsT6I2q3g/master.m3u8
+
+#EXTINF:-1 tvg-name="City News Toronto"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="319"group-title="Canada English",City News Toronto 24/7
 
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
+#EXTINF:-1 tvg-name="City News Vancouver"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="320"group-title="Canada English",City News Vancouver
 
-#EXTINF:-1 tvg-name="Global News National"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="318"group-title="Canada English",Global News National
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+
+#EXTINF:-1 tvg-name="Global News National"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="321"group-title="Canada English",Global News National
 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News BC"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="319"group-title="Canada English",Global News BC
+#EXTINF:-1 tvg-name="Global News BC"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="322"group-title="Canada English",Global News BC
 
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Calgary"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="320"group-title="Canada English",Global News Calgary
+#EXTINF:-1 tvg-name="Global News Calgary"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="323"group-title="Canada English",Global News Calgary
 
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Edmonton"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="321"group-title="Canada English",Global News Edmonton
+#EXTINF:-1 tvg-name="Global News Edmonton"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="324"group-title="Canada English",Global News Edmonton
 
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Halifax"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="322"group-title="Canada English",Global News Halifax
+#EXTINF:-1 tvg-name="Global News Halifax"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="325"group-title="Canada English",Global News Halifax
 
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Kingston"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="323"group-title="Canada English",Global News Kingston
+#EXTINF:-1 tvg-name="Global News Kingston"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="326"group-title="Canada English",Global News Kingston
 
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9a/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="324"group-title="Canada English",Global News Montreal
+#EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="327"group-title="Canada English",Global News Montreal
 
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Okanagan"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="325"group-title="Canada English",Global News Okanagan
+#EXTINF:-1 tvg-name="Global News Okanagan"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="328"group-title="Canada English",Global News Okanagan
 
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Peterborough"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="326"group-title="Canada English",Global News Peterborough
+#EXTINF:-1 tvg-name="Global News Peterborough"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="329"group-title="Canada English",Global News Peterborough
 
 https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Regina"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="327"group-title="Canada English",Global News Regina
+#EXTINF:-1 tvg-name="Global News Regina"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="330"group-title="Canada English",Global News Regina
 
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Saskatoon"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="328"group-title="Canada English",Global News Saskatoon
+#EXTINF:-1 tvg-name="Global News Saskatoon"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="331"group-title="Canada English",Global News Saskatoon
 
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Toronto"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="329"group-title="Canada English",Global News Toronto
+#EXTINF:-1 tvg-name="Global News Toronto"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="332"group-title="Canada English",Global News Toronto
 
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="330"group-title="Canada English",Global News Winnipeg
+#EXTINF:-1 tvg-name="Global News Winnipeg"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-GlobalNews.png"tvg-chno="333"group-title="Canada English",Global News Winnipeg
 
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="331"group-title="Canada English",Knowledge Network
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="334"group-title="Canada English",Knowledge Network
 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="332"group-title="Canada English",NTV Newfoundland
+#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="335"group-title="Canada English",NTV Newfoundland
 
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="333"group-title="Canada English",TVO Kids
+#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="336"group-title="Canada English",TVO Kids
 
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="334"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="337"group-title="Canada English",WCGtv Brandon (MB)
 
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
