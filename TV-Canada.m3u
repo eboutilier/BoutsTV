@@ -82,6 +82,8 @@ https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/61016
 
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
 
+#EXTINF:-1 tvg-name="TFO"tvg-id="TFO.-.Chaine.Francaise.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TFO.png"tvg-chno="119"group-title="Canada Français",TFO
+https://content.uplynk.com/channel/5f0c669d37784f3ba6933f76dabc0644.m3u8?cqs=2bYfikHMIX7HmmYAILUdZ2Iq5D-8jm4gmOzOm1C8HK0owIf2C6n5ggOVmhq1HH2RIUmAR4NXuKebaSsKPxtj05Svtwq66_dZ_wDdKNNiC531SzCNQLZcT_-Ot5fB2H7hp2EJ_Soi51g94Rn-Psesa_kQ_UlxYrUjwX7zSfF_IipzxtwmBzZkWAX1O6h50BVaY7-ic1r3qFIoK-ZPrl7PKA==&kid=e2d6560578114303b58dbcdecbc4b8cc&cdn=cf
 
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="CPAC.Ottawa.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="200"group-title="Politique / Politics",CPAC EN
 
