@@ -92,7 +92,7 @@ https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/56449
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="203"group-title="Politique / Politics",ONT.PARL FR
+#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislative.Assembly.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="203"group-title="Politique / Politics",ONT.PARL FR
 
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
@@ -239,7 +239,7 @@ https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab0172
 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Much.Music.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Much.png"tvg-chno="335"group-title="Canada English",Much
+#EXTINF:-1 tvg-name="Much"tvg-id="Much.Music.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Much.png"tvg-chno="335"group-title="Canada English",Much
 
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 
@@ -247,15 +247,12 @@ http://fl1.moveonjoy.com/MUCH/index.m3u8
 
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="The Weather Network"tvg-id="Weather.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TWN.png"tvg-chno="337"group-title="Canada English",The Weather Network
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-
-#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="338"group-title="Canada English",TVO Kids
+#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="337"group-title="Canada English",TVO Kids
 
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="339"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="338"group-title="Canada English",WCGtv Brandon (MB)
 
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
