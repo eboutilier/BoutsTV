@@ -247,7 +247,10 @@ http://fl1.moveonjoy.com/MUCH/index.m3u8
 
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="337"group-title="Canada English",TVO Kids
+#EXTINF:-1 tvg-name="The Weather Network"tvg-id="Weather.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TWN.png"tvg-chno="337"group-title="Canada English",The Weather Network
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
+
+#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="338"group-title="Canada English",TVO Kids
 
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
