@@ -75,15 +75,9 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
 
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 tvg-name="Télé-Quéebec"tvg-id="Tele-Quebec.(CIVM).Montreal.HD.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TQ.png"tvg-chno="117"group-title="Canada Français",Télé-Québec
-https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa"tvg-id="****************"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="118"group-title="Canada Français",Télé Témiscaming-Kipawa
+#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa"tvg-id="****************"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="117"group-title="Canada Français",Télé Témiscaming-Kipawa
 
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
-
-#EXTINF:-1 tvg-name="TFO"tvg-id="TFO.-.Chaine.Francaise.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TFO.png"tvg-chno="119"group-title="Canada Français",TFO
-https://content-ause2-up-1.uplynk.com/channel/5f0c669d37784f3ba6933f76dabc0644/e.m3u8?tc=1&ct=c&cid=5f0c669d37784f3ba6933f76dabc0644&rn=946848206929817&exp=1742510077&sig=a2cd18a91835356d0ecdd4b9d479bb61ec7e30912a83ccb0c4efd94d28a31868&pbs=906731accdd140c182a9df4368c04b96
 
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="CPAC.Ottawa.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="200"group-title="Politique / Politics",CPAC EN
 
@@ -245,17 +239,21 @@ https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab0172
 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="335"group-title="Canada English",NTV Newfoundland
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Much.Music.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Much.png"tvg-chno="335"group-title="Canada English",Much
+
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+
+#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="336"group-title="Canada English",NTV Newfoundland
 
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="336"group-title="Canada English",TVO Kids
+#EXTINF:-1 tvg-name="TVO Kids"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVOKids.png"tvg-chno="337"group-title="Canada English",TVO Kids
 
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="337"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="338"group-title="Canada English",WCGtv Brandon (MB)
 
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
