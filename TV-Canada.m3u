@@ -97,7 +97,7 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="L&apos;AssemblÃ©e.nationale.du.QuÃ©bec.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="204"group-title="Politique / Politics",ASSNA Québec
+#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="L'Assemblée.nationale.du.Québec.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="204"group-title="Politique / Politics",ASSNA Québec
 
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 
