@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Global"tvg-id="Global.(CIII-DT-41).Toronto.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="2"group-title="Antenne / Antenna",Global
-
-https://
-#EXTINF:-1 tvg-name="CTV North Bay"tvg-id="CTV.North.Bay.(CKNY-DT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CTV.png"tvg-chno="10"group-title="Antenne / Antenna",CTV North Bay
-
-https://
-#EXTINF:-1 tvg-name="CHCH"tvg-id="CHCH.Hamilton,.ON.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCH.png"tvg-chno="32"group-title="Antenne / Antenna",CHCH
-
-https://
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICIRDI.png"tvg-chno="100"group-title="Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 
@@ -256,18 +247,15 @@ https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/1536
 
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
-#EXTINF:-1 tvg-name="Charge!"tvg-id="Charge.TV.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Charge.png"tvg-chno="400"group-title="USA English",Charge!
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-name="Comet"tvg-id="Comet.TV.(COMET).us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Comet.png"tvg-chno="401"group-title="USA English",Comet
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
-#EXTINF:-1 tvg-name="PBS KET"tvg-id="Kentucky.Channel.(WKMJ-TV2).Lexington,.KY.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="402"group-title="USA English",PBS KET
+#EXTINF:-1 tvg-name="CKPR"tvg-id="__"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CKPR.png"tvg-chno="400"group-title="Antenne / Antenna",CKPR
+https://
 
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-name="Global Thunder Bay"tvg-id="__"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="10"group-title="Antenne / Antenna",Global Thunder Bay
+https://
 
-#EXTINF:-1 tvg-name="PBS Maryland"tvg-id="PBS.(WMPT).Annapolis,.MD.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="403"group-title="USA English",PBS Maryland
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-name="TBD"tvg-id="TBD.TV.us"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TBD.png"tvg-chno="404"group-title="USA English",TBD
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.(CICA-DT).Toronto,.ON.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="32"group-title="Antenne / Antenna",TVO
+https://
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Abbotsford.png" group-title="AHL / LAH" radio="true",Abbotsford | Canucks | ****
 https://
@@ -402,7 +390,7 @@ https://aispool.streamon.fm/ais/CKRM.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rimouski.png" group-title="LHJMQ / QMJHL" radio="true",Rimouski | Océanic | CIKI
 https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rouyn-Noranda.png" group-title="LHJMQ / QMJHL" radio="true",Rouyn-Noranda | Huskies | CHUN
-http://radio3.cjrsradio.com:9954/;
+https://stream.zoneplus.ca:9954/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Saginaw.png" group-title="OHL" radio="true",Saginaw | Spirit | WSGW
 https://live.amperwave.net/direct/alphacorporate-wsgwammp3-ibc4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-SaintJohn.png" group-title="LHJMQ / QMJHL" radio="true",Saint John | Sea Dogs | ****
