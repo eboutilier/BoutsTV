@@ -250,10 +250,10 @@ https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1 tvg-name="CKPR"tvg-id="__"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CKPR.png"tvg-chno="400"group-title="Antenne / Antenna",CKPR
 https://
 
-#EXTINF:-1 tvg-name="Global Thunder Bay"tvg-id="__"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="10"group-title="Antenne / Antenna",Global Thunder Bay
+#EXTINF:-1 tvg-name="Global Thunder Bay"tvg-id="__"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="401"group-title="Antenne / Antenna",Global Thunder Bay
 https://
 
-#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.(CICA-DT).Toronto,.ON.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="32"group-title="Antenne / Antenna",TVO
+#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.(CICA-DT).Toronto,.ON.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="402"group-title="Antenne / Antenna",TVO
 https://
 
 #EXTM3U
