@@ -259,8 +259,6 @@ https://
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Abbotsford.png" group-title="AHL / LAH" radio="true",Abbotsford | Canucks | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Acadie-Bathurst.png" group-title="LHJMQ / QMJHL" radio="true",Acadie-Bathurst | Titan | CKLE
-https://stream2.statsradio.com:8114/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
 https://stream2.statsradio.com:8120/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | Colts | ****
@@ -347,6 +345,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MooseJaw.png" group-title="WHL" radio="true",Moose Jaw | Warriors | CILG
 https://goldenwest.leanstream.co/CILGFM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Newfoundland.png" group-title="LHJMQ / QMJHL" radio="true",Newfoundland | Regiment | ****
+https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Niagara.png" group-title="OHL" radio="true",Niagara | Ice Dogs | ****
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-NorthBay.png" group-title="OHL" radio="true",North Bay | Battalion | ****
