@@ -457,7 +457,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u
 https:/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Winnipeg.png" group-title="CFL / LCF" radio="true",Winnipeg | Blue Bombers | CJOB
 https://live.leanstream.co/CJOBAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | CJNU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | EN | CJNU
 https://noasrv.caster.fm:10188/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | FR | CKXL
+http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
