@@ -365,8 +365,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-TriCity.png" group-title="WHL" radio="true",Tri-City | Americans | KFLD
 https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | Aigles | ****
-https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | Aigles | CFOU
+http://radio3.cjrsradio.com:9308/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/ECHL-Trois-Rivieres.png" group-title="ECHL" radio="true",Trois-Rivières | Lions | CKOB
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Val-dOr.png" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | Foreurs | ****
