@@ -113,16 +113,19 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="200"group-title="Canada English",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 
-#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO-TV.Saint.Andrews.(New.Brunswick).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="201"group-title="Canada English",CHCO-TV Saint Andrews (NB) | CHCO
+#EXTINF:-1 tvg-name="CBHL-TV Ootsa Lake (BC)"tvg-id="Global.BC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CKPR.png"tvg-chno="201"group-title="Canada English",CHBL Ootsa Lake
+https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO-TV.Saint.Andrews.(New.Brunswick).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="202"group-title="Canada English",CHCO-TV Saint Andrews (NB) | CHCO
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
-#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="202"group-title="Canada English",NACTV Neepawa (MB)
+#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="203"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
-#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="203"group-title="Canada Français",Télé Témiscaming-Kipawa (QC)
+#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="204"group-title="Canada Français",Télé Témiscaming-Kipawa (QC)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
 
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="204"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="205"group-title="Canada English",WCGtv Brandon (MB)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
 #EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="L&apos;AssemblÃ©e.nationale.du.QuÃ©bec.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="300"group-title="Politique / Politics",Assemblée nationale du Québec
@@ -402,6 +405,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
