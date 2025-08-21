@@ -113,6 +113,9 @@ https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 #EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="134"group-title="Canada Français",ICI Télé Saguenay | CKTV
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 
+#EXTINF:-1 tvg-name="MUCH"tvg-id="Much.Music.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Much.png"tvg-chno="135"group-title="Canada English",MUCH
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="200"group-title="Canada English",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 
@@ -405,6 +408,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
