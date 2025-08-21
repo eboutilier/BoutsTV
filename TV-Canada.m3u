@@ -308,7 +308,7 @@ https://live.leanstream.co/CKDJFM-MP3
 https://stream2.statsradio.com:8038/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-OwenSound.png" group-title="OHL" radio="true",Owen Sound | Attack | CFOS
 https://bayshore-ais.leanstream.co/CFOSAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Pentictoh.png" group-title="WHL" radio="true",Penticton | Vees | CKOR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Penticton.png" group-title="WHL" radio="true",Penticton | Vees | CKOR
 https://maggie.torontocast.com:8142/index
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Peterborough.png" group-title="OHL" radio="true",Peterborough | Petes | ****
 https://
@@ -402,6 +402,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
