@@ -92,40 +92,40 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CBC.Yellowknife.(CFYK).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="127"group-title="Canada English",CBC Yellowknife | CFYK
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ICI.Radio-Canada.(Rimouski).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="128"group-title="Canada Français",ICI Télé Est-Québec | CJBR
+#EXTINF:-1 tvg-name="Global Ootsa Lake (BC)"tvg-id="Global.BC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="128"group-title="Canada English",Global Ootsa Lake (BC) | CHBL
+https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ICI.Radio-Canada.(Rimouski).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="129"group-title="Canada Français",ICI Télé Est-Québec | CJBR
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="129"group-title="Canada English",NTV Newfoundland | CJON
+#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="130"group-title="Canada English",NTV Newfoundland | CJON
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="130"group-title="Canada English",Knowledge Network | CKNO
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="131"group-title="Canada English",Knowledge Network | CKNO
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="ICI.Tele.Estrie.(CKSH).Sherbrooke,.QC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="131"group-title="Canada Français",ICI Télé Estrie | CKSH
+#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="ICI.Tele.Estrie.(CKSH).Sherbrooke,.QC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="132"group-title="Canada Français",ICI Télé Estrie | CKSH
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="ICI.Tele.(CKTM-DT).Trois-RiviÃ¨res,.QC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="132"group-title="Canada Français",ICI Télé Mauricie | CKTM
+#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="ICI.Tele.(CKTM-DT).Trois-RiviÃ¨res,.QC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="133"group-title="Canada Français",ICI Télé Mauricie | CKTM
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="133"group-title="Canada Français",ICI Télé Saguenay | CKTV
+#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="134"group-title="Canada Français",ICI Télé Saguenay | CKTV
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="200"group-title="Canada English",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 
-#EXTINF:-1 tvg-name="Global Ootsa Lake (BC)"tvg-id="Global.BC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CKPR.png"tvg-chno="201"group-title="Canada English",Global Ootsa Lake (BC) | CHBL
-https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8
-
-#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO-TV.Saint.Andrews.(New.Brunswick).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="202"group-title="Canada English",CHCO-TV Saint Andrews (NB) | CHCO
+#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO-TV.Saint.Andrews.(New.Brunswick).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="201"group-title="Canada English",CHCO-TV Saint Andrews (NB) | CHCO
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
-#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="203"group-title="Canada English",NACTV Neepawa (MB)
+#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="202"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
-#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="204"group-title="Canada Français",Télé Témiscaming-Kipawa (QC)
+#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="203"group-title="Canada Français",Télé Témiscaming-Kipawa (QC)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
 
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="205"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="204"group-title="Canada English",WCGtv Brandon (MB)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
 #EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="L&apos;AssemblÃ©e.nationale.du.QuÃ©bec.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="300"group-title="Politique / Politics",Assemblée nationale du Québec
@@ -405,6 +405,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
