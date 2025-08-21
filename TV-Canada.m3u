@@ -203,11 +203,11 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Blainville-Boisbriand.png" group-title="LHJMQ / QMJHL" radio="true",Blainville-Boisbriand | Armada | CKLX
 https://stream.bpmsports.ca/cklx.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Brampton.png" group-title="OHL" radio="true",Brampton | Steelheads | CKNT
-https://stream2.statsradio.com:8066/stream
+https://us1.streamingpulse.com/ssl/7172
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Brandon.png" group-title="WHL" radio="true",Brandon | Wheat Kings | CKLQ
 https://icy.jpbgdigital.com/CKLQ.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Brantford.png" group-title="OHL" radio="true",Brantford | Bulldogs | ****
-https:/
+https://chl.ca/ohl-bulldogs/audio/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-BritishColumbia.png" group-title="CFL / LCF" radio="true",British Colombia | Lions | CKNW
 https://live.leanstream.co/CKNWAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" group-title="NHL / LNH" radio="true",Calgary | Flames | CFAC
@@ -233,7 +233,7 @@ https://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Edmonton.png" group-title="NHL / LNH" radio="true",Edmonton | Oilers | CHED
 https://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Edmonton.png" group-title="WHL" radio="true",Edmonton | Oil Kings | ****
-https://
+https://www.iheart.com/live/edmonton-oil-kings-radio-9994/?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | Otters | WJET
 https://stream.revma.ihrhls.com/zc8290/hls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Everett.png" group-title="WHL" radio="true",Everett | Silvertips | KHEY
@@ -397,3 +397,4 @@ https://noasrv.caster.fm:10188/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | FR | CKXL
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
+
