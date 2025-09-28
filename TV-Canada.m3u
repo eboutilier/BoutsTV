@@ -14,115 +14,109 @@ https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.RDI.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICIRDI.png"tvg-chno="101"group-title="Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 
-#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-LCN.png"tvg-chno="102"group-title="Canada Français",LCN
+#EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.TVA.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-LCN.png"tvg-chno="102"group-title="Canada Français",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1 tvg-name="CBC Fredericton"tvg-id="CBC.Fredericton.(CBAT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="103"group-title="Canada English",CBC Fredericton | CBAT
+#EXTINF:-1 tvg-name="CBC Fredericton"tvg-id="CBAT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="103"group-title="Canada English",CBC Fredericton | CBAT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Acadie"tvg-id="BAFT.ICI.Radio-Canada.HDTV.(Moncton).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="104"group-title="Canada Français",ICI Télé Acadie | CBAFT
+#EXTINF:-1 tvg-name="ICI Télé Acadie"tvg-id="CBAFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="104"group-title="Canada Français",ICI Télé Acadie | CBAFT
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Charlottetown"tvg-id="CBC.Charlottetown.(CBCT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="105"group-title="Canada English",CBC Charlottetown | CBCT
+#EXTINF:-1 tvg-name="CBC Charlottetown"tvg-id="CBCT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="105"group-title="Canada English",CBC Charlottetown | CBCT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 
-#EXTINF:-1 tvg-name="CBC Windsor"tvg-id="CBET.Windsor.(CBET).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="106"group-title="Canada English",CBC Windsor | CBET
+#EXTINF:-1 tvg-name="CBC Windsor"tvg-id="CBC.Television-Windsor.9.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="106"group-title="Canada English",CBC Windsor | CBET
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Montréal"tvg-id="ICI.Tele.Montreal.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="107"group-title="Canada Français",ICI Télé Montréal | CBFT
+#EXTINF:-1 tvg-name="ICI Télé Montréal"tvg-id="CBFT-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="107"group-title="Canada Français",ICI Télé Montréal | CBFT
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Halifax"tvg-id="CBC.(CBHT).Halifax,.NS.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="108"group-title="Canada English",CBC Halifax| CBHT
+#EXTINF:-1 tvg-name="CBC Halifax"tvg-id="CBC.Halifax.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="108"group-title="Canada English",CBC Halifax| CBHT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 
-#EXTINF:-1 tvg-name="CBC Regina"tvg-id="CBC.Saskatchewan.(CBKT).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="109"group-title="Canada English",CBC Regina | CBKT
+#EXTINF:-1 tvg-name="CBC Regina"tvg-id="CBC.Saskatchewan.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="109"group-title="Canada English",CBC Regina | CBKT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Saskatchewan"tvg-id="CBKFT.ICI.Radio-Canada.(Regina).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="110"group-title="Canada Français",ICI Télé Saskatchewan | CBKFT
+#EXTINF:-1 tvg-name="ICI Télé Saskatchewan"tvg-id="CBKFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="110"group-title="Canada Français",ICI Télé Saskatchewan | CBKFT
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Toronto"tvg-id="CBC.(CBLT).Toronto,.ON.HD.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="111"group-title="Canada English",CBC Toronto | CBLT
+#EXTINF:-1 tvg-name="CBC Toronto"tvg-id="CBC.Toronto.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="111"group-title="Canada English",CBC Toronto | CBLT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="ICI.(CBLFT).Toronto.HD.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="112"group-title="Canada Français",ICI Télé Ontario | CBLFT
+#EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="112"group-title="Canada Français",ICI Télé Ontario | CBLFT
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Montreal"tvg-id="CBC.Quebec.HDTV.(CBMTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="113"group-title="Canada English",CBC Montreal | CBMT
+#EXTINF:-1 tvg-name="CBC Montreal"tvg-id="CBMT-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="113"group-title="Canada English",CBC Montreal | CBMT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 
-#EXTINF:-1 tvg-name="CBC St Johns"tvg-id="CBC.(CBNT).St-Johns.NL.ca.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="114"group-title="Canada English",CBC St Johns | CBNT
+#EXTINF:-1 tvg-name="CBC St Johns"tvg-id="CBC.St..Johnâ€™s.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="114"group-title="Canada English",CBC St Johns | CBNT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 
-#EXTINF:-1 tvg-name="CBC Ottawa"tvg-id="CBOT.HDTV.(CBOTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="115"group-title="Canada English",CBC Ottawa | CBOT
+#EXTINF:-1 tvg-name="CBC Ottawa"tvg-id="CBC.Ottawa.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="115"group-title="Canada English",CBC Ottawa | CBOT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Ottawa-Gatineau"tvg-id="CBOFT.ICI.Radio-Canada.HDTV.(Ottawa).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="116"group-title="Canada Français",ICI Télé Ottawa-Gatineau | CBOFT
+#EXTINF:-1 tvg-name="ICI Télé Ottawa-Gatineau"tvg-id="CBOFT-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="116"group-title="Canada Français",ICI Télé Ottawa-Gatineau | CBOFT
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Calgary"tvg-id="CBC.(CBRT).Calgary,.AB.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="117"group-title="Canada English",CBC Calgary | CBRT
+#EXTINF:-1 tvg-name="CBC Calgary"tvg-id="CBC.Calgary.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="117"group-title="Canada English",CBC Calgary | CBRT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 
-#EXTINF:-1 tvg-name="CBC Vancouver"tvg-id="CBC.(CBUT).Vancouver,.BC.HD.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="118"group-title="Canada English",CBC Vancouver | CBUT
+#EXTINF:-1 tvg-name="CBC Vancouver"tvg-id="CBC.Vancouver.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="118"group-title="Canada English",CBC Vancouver | CBUT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé CB-Yukon"tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="119"group-title="Canada Français",ICI Télé CB-Yukon | CBUFT
+#EXTINF:-1 tvg-name="ICI Télé CB-Yukon"tvg-id="CBUFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="119"group-title="Canada Français",ICI Télé CB-Yukon | CBUFT
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ICI.Radio-Canada.HDTV.(Québec).(IRCHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="120"group-title="Canada Français",ICI Télé Québec | CBVT
+#EXTINF:-1 tvg-name="ICI Télé Québec"tvg-id="CBVT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="120"group-title="Canada Français",ICI Télé Québec | CBVT
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Winnipeg"tvg-id="CBC.(CBWT).Winnipeg,.MB.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="121"group-title="Canada English",CBC Winnipeg | CBWT
+#EXTINF:-1 tvg-name="CBC Winnipeg"tvg-id="CBC.Winnipeg.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="121"group-title="Canada English",CBC Winnipeg | CBWT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Manitoba"tvg-id="ICI.Tele.Manitoba.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="122"group-title="Canada Français",ICI Télé Manitoba | CBWFT
+#EXTINF:-1 tvg-name="ICI Télé Manitoba"tvg-id="CBWFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="122"group-title="Canada Français",ICI Télé Manitoba | CBWFT
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="CBC Edmonton"tvg-id="CBC.Edmonton.HDTV.(CBXTHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="123"group-title="Canada English",CBC Edmonton | CBXT
+#EXTINF:-1 tvg-name="CBC Edmonton"tvg-id="CBC.Edmonton.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="123"group-title="Canada English",CBC Edmonton | CBXT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Alberta"tvg-id="CBXFT.ICI.Radio-Canada.(Edmonton).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="124"group-title="Canada Français",ICI Télé Alberta | CBXFT
+#EXTINF:-1 tvg-name="ICI Télé Alberta"tvg-id="CBXFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="124"group-title="Canada Français",ICI Télé Alberta | CBXFT
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="TVA"tvg-id="TVA.HD.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="125"group-title="Canada Français",TVA | CFTM
+#EXTINF:-1 tvg-name="TVA"tvg-id="CFTM-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="125"group-title="Canada Français",TVA | CFTM
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-#EXTINF:-1 tvg-name="Savoir Média"tvg-id="Savoir.Média.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Savoir.png"tvg-chno="126"group-title="Canada Français",Savoir Média | CFTU
+#EXTINF:-1 tvg-name="Savoir Média"tvg-id="Savoir.mÃ©dia.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Savoir.png"tvg-chno="126"group-title="Canada Français",Savoir Média | CFTU
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CBC.Yellowknife.(CFYK).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="127"group-title="Canada English",CBC Yellowknife | CFYK
+#EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CFYK.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="127"group-title="Canada English",CBC Yellowknife | CFYK
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
-#EXTINF:-1 tvg-name="Global Ootsa Lake (BC)"tvg-id="Global.BC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="128"group-title="Canada English",Global Ootsa Lake (BC) | CHBL
-https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8
-
-#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ICI.Radio-Canada.(Rimouski).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="129"group-title="Canada Français",ICI Télé Est-Québec | CJBR
+#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="128"group-title="Canada Français",ICI Télé Est-Québec | CJBR
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="130"group-title="Canada English",NTV Newfoundland | CJON
+#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="NTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="129"group-title="Canada English",NTV Newfoundland | CJON
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="131"group-title="Canada English",Knowledge Network | CKNO
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="130"group-title="Canada English",Knowledge Network | CKNO
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="ICI.Tele.Estrie.(CKSH).Sherbrooke,.QC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="132"group-title="Canada Français",ICI Télé Estrie | CKSH
+#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="CKSH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="131"group-title="Canada Français",ICI Télé Estrie | CKSH
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="ICI.Tele.(CKTM-DT).Trois-RiviÃ¨res,.QC.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="133"group-title="Canada Français",ICI Télé Mauricie | CKTM
+#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="CKTM.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="132"group-title="Canada Français",ICI Télé Mauricie | CKTM
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ICI.Radio-Canada.(Saguenay).(IRC).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="134"group-title="Canada Français",ICI Télé Saguenay | CKTV
+#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="133"group-title="Canada Français",ICI Télé Saguenay | CKTV
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
-
-#EXTINF:-1 tvg-name="MUCH"tvg-id="Much.Music.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Much.png"tvg-chno="135"group-title="Canada English",MUCH
-https://fl1.moveonjoy.com/MUCH/index.m3u8
 
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="200"group-title="Canada English",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 
-#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO-TV.Saint.Andrews.(New.Brunswick).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="201"group-title="Canada English",CHCO-TV Saint Andrews (NB) | CHCO
+#EXTINF:-1 tvg-name="CHCO-TV Saint Andrews (NB)"tvg-id="CHCO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="201"group-title="Canada English",CHCO-TV Saint Andrews (NB) | CHCO
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
-#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="202"group-title="Canada English",NACTV Neepawa (MB)
+#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="202"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
 #EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="203"group-title="Canada Français",Télé Témiscaming-Kipawa (QC)
@@ -131,19 +125,19 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u
 #EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="204"group-title="Canada English",WCGtv Brandon (MB)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
-#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="L&apos;AssemblÃ©e.nationale.du.QuÃ©bec.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="300"group-title="Politique / Politics",Assemblée nationale du Québec
+#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="ASSEMBLÃ‰E.NATIONALE.(CF.Cable.TV).ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="300"group-title="Politique / Politics",Assemblée nationale du Québec
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="CPAC EN"tvg-id="CPAC.Ottawa.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="301"group-title="Politique / Politics",CPAC EN
+#EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="301"group-title="Politique / Politics",CPAC EN
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="CPAC FR"tvg-id="CPAC.(Francais).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="302"group-title="Politique / Politics",CPAC FR
+#EXTINF:-1 tvg-name="CPAC FR"tvg-id="Cable.Public.Affairs.Channel.(French).ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="302"group-title="Politique / Politics",CPAC FR
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislative.Assembly.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="303"group-title="Politique / Politics",ONT.PARL EN
+#EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="303"group-title="Politique / Politics",ONT.PARL EN
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislative.Assembly.ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="304"group-title="Politique / Politics",ONT.PARL FR
+#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="304"group-title="Politique / Politics",ONT.PARL FR
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="City News Calgary "tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="401"group-title="Canada English",City News Calgary
@@ -408,6 +402,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
