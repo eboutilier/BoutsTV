@@ -8,10 +8,10 @@ https://
 #EXTINF:-1 tvg-name="TVO"tvg-id="TVO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="9"group-title="Antenne / Antenna",TVO
 https://
 
-#EXTINF:-1 tvg-name="CBC News Network"tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="100"group-title="Canada English",CBC News Network
+#EXTINF:-1 tvg-name="CBC News Network"tvg-id="CBC.News.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="100"group-title="Canada English",CBC News Network
 https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
 
-#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.Reseau.de.lInformation.HDTV.(ICIRDIHD).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICIRDI.png"tvg-chno="101"group-title="Canada Français",ICI RDI
+#EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.RDI.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICIRDI.png"tvg-chno="101"group-title="Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 
 #EXTINF:-1 tvg-name="LCN"tvg-id="Le.Canal.Nouvelles.HDTV.(LCND).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-LCN.png"tvg-chno="102"group-title="Canada Français",LCN
@@ -408,6 +408,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
