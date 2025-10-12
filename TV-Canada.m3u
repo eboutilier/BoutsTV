@@ -92,22 +92,25 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="CBC Yellowknife"tvg-id="CFYK.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="127"group-title="Canada English",CBC Yellowknife | CFYK
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="128"group-title="Canada Français",ICI Télé Est-Québec | CJBR
+#EXTINF:-1 tvg-name="Global Ootsa Lake (BC)"tvg-id="Global.BC.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="128"group-title="Canada English",Global Ootsa Lake | CHBL
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="NTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="129"group-title="Canada English",NTV Newfoundland | CJON
+#EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="129"group-title="Canada Français",ICI Télé Est-Québec | CJBR
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
+
+#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="NTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="130"group-title="Canada English",NTV Newfoundland | CJON
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="130"group-title="Canada English",Knowledge Network | CKNO
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="131"group-title="Canada English",Knowledge Network | CKNO
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="CKSH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="131"group-title="Canada Français",ICI Télé Estrie | CKSH
+#EXTINF:-1 tvg-name="ICI Télé Estrie"tvg-id="CKSH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="132"group-title="Canada Français",ICI Télé Estrie | CKSH
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="CKTM.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="132"group-title="Canada Français",ICI Télé Mauricie | CKTM
+#EXTINF:-1 tvg-name="ICI Télé Mauricie"tvg-id="CKTM.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="133"group-title="Canada Français",ICI Télé Mauricie | CKTM
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="133"group-title="Canada Français",ICI Télé Saguenay | CKTV
+#EXTINF:-1 tvg-name="ICI Télé Saguenay"tvg-id="CKTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="134"group-title="Canada Français",ICI Télé Saguenay | CKTV
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="200"group-title="Canada English",Cable 14 Hamilton
@@ -399,6 +402,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
