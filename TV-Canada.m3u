@@ -9,7 +9,7 @@ https://
 https://
 
 #EXTINF:-1 tvg-name="CBC News Network"tvg-id="CBC.News.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="100"group-title="Canada English",CBC News Network
-https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-name="ICI RDI"tvg-id="ICI.RDI.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICIRDI.png"tvg-chno="101"group-title="Canada Français",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
@@ -119,13 +119,10 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="202"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
-#EXTINF:-1 tvg-name="Télé Témiscaming-Kipawa (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"tvg-chno="203"group-title="Canada Français",Télé Témiscaming-Kipawa (QC)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
-
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="204"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="203"group-title="Canada English",WCGtv Brandon (MB)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
-#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="ASSEMBLÃ‰E.NATIONALE.(CF.Cable.TV).ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="300"group-title="Politique / Politics",Assemblée nationale du Québec
+#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="ASSEMBLÉE.NATIONALE.(CF.Cable.TV).ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"tvg-chno="300"group-title="Politique / Politics",Assemblée nationale du Québec
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="301"group-title="Politique / Politics",CPAC EN
@@ -402,6 +399,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
