@@ -93,7 +93,7 @@ https://hls.savoir.media/live/stream.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
 
 #EXTINF:-1 tvg-name="Global Ootsa Lake (BC)"tvg-id="Global.BC.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="128"group-title="Canada English",Global Ootsa Lake | CHBL
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
+https://fl25.moveonjoy.com/CA_GLOBAL/index.m3u8
 
 #EXTINF:-1 tvg-name="ICI Télé Est-Québec"tvg-id="CJBR.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="129"group-title="Canada Français",ICI Télé Est-Québec | CJBR
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
@@ -402,6 +402,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
