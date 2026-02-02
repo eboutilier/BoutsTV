@@ -116,10 +116,13 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="200"group-title="Canada English",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/chunklist_w3140839_b3360000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="201"group-title="Canada English",NACTV Neepawa (MB)
+#EXTINF:-1 tvg-name="CHCO St-Andrews (NB)"tvg-id="CHCO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="201"group-title="Canada English",CHCO St-Andrews (NB)
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+
+#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="202"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
-#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="202"group-title="Canada English",WCGtv Brandon (MB)
+#EXTINF:-1 tvg-name="WCGtv Brandon (MB)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-WCGtv.png"tvg-chno="203"group-title="Canada English",WCGtv Brandon (MB)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="300"group-title="Politique / Politics",CPAC EN
@@ -393,6 +396,7 @@ https://noasrv.caster.fm:10188/stream
 http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
+
 
 
 
