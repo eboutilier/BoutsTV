@@ -140,12 +140,6 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m
 #EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="303"group-title="Politique / Politics",ONT.PARL FR
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CBC Radio One"tvg-id="CBC.Radio.One.AM.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="350"group-title="Canada English",CBC Radio One | CBCE
-https://26733.live.streamtheworld.com/CBQTFM_CBC.mp3
-
-#EXTINF:-1 tvg-name="CBC Music"tvg-id="CBC.Radio.Two.FM.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="351"group-title="Canada English",CBC Music | CBBK
-https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
-
 #EXTINF:-1 tvg-name="City News Calgary "tvg-id="Local.Programming.(Generic).(CATV-90).ca"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CityNews.png"tvg-chno="400"group-title="Canada English",City News Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
