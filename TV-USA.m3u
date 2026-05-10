@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="PBS"tvg-id="WKMJ-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="300"group-title="USA",PBS Kentucky | WKMJ
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-
-#EXTINF:-1 tvg-name="PBS"tvg-id="WMPB-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="301"group-title="USA",PBS Maryland | WMPB
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-#EXTINF:-1 tvg-name="PBS"tvg-id="WMPT-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="302"group-title="USA",PBS Create | WMPB
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
