@@ -8,6 +8,9 @@ https://
 #EXTINF:-1 tvg-name="TVO"tvg-id="TVO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="9"group-title="Antenne / Antenna",TVO
 https://
 
+#EXTINF:-1 tvg-name="Info"tvg-id=""tvg-logo=""tvg-chno="16"group-title="Antenne / Antenna",Bouts TV
+https://
+
 #EXTINF:-1 tvg-name="Bouts TV"tvg-id=""tvg-logo=""tvg-chno="38"group-title="Antenne / Antenna",Bouts TV
 https://
 
