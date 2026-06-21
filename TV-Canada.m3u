@@ -251,6 +251,8 @@ https://corus.leanstream.co/CJOYAM-MP3
 https://rogers.leanstream.co/rogers/hal957.stream/icy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Halifax.png" group-title="Lacrosse / Crosse" radio="true",Halifax | Thunderbirds | ****
 https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AHL-Hamilton.png" group-title="AHL / LAH" radio="true",Hamilton | Hammers | ****
+https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Hamilton.png" group-title="CFL / LCF" radio="true",Hamilton | Tiger Cats | ****
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kamloops.png" group-title="WHL" radio="true",Kamloops | Blazers | CHNL
