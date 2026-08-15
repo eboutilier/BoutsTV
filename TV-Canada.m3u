@@ -212,8 +212,6 @@ https://live.leanstream.co/CHQRAM-MP3-2
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Calgary.png" group-title="CFL / LCF" radio="true",Calgary | Stampeders | CHQR
 https://corus.leanstream.co/CHQRAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LAH-Calgary.png" group-title="AHL / LAH" radio="true",Calgary | Wranglers | ****
-https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | Eagles | CJCB
 https://mbsradio-ais.leanstream.co/CJCBAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Charlottetown.png" group-title="LHJMQ / QMJHL" radio="true",Charlottetown | Islanders | CHLQ
@@ -322,8 +320,6 @@ https://
 https://blackburn.leanstream.co/CHOKAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Saskatchewan.png" group-title="CFL / LCF" radio="true",Saskatchewan | Roughriders | CKRM
 https://aispool.streamon.fm/ais/CKRM.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NLL-Saskatchewan.png" group-title="Lacrosse / Crosse" radio="true",Saskatchewan | Rush | CKBL
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKBLFMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Saskatoon.png" group-title="WHL" radio="true",Saskatoon | Blades | CJWW
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sault-Ste-Marie.png" group-title="OHL" radio="true",Sault-Ste-Marie | Greyhounds | WSUE
