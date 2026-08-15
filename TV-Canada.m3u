@@ -69,7 +69,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
 
 #EXTINF:-1 tvg-name="CBC Calgary"tvg-id="CBC.Calgary.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="118"group-title="Canada English",CBC Calgary | CBRT
-https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+https://dai.google.com/linear/hls/pa/event/6GWzdYaNSKuRuc16V1NEaA/stream/8ca70ead-6557-4d55-b438-e4e0c11ad647:TUL/variant/fd717ea15d6565bca8098aefd86e29ea/bandwidth/3261054.m3u8
 
 #EXTINF:-1 tvg-name="CBC Vancouver"tvg-id="CBC.Vancouver.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="119"group-title="Canada English",CBC Vancouver | CBUT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
