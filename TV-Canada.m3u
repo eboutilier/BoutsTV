@@ -284,8 +284,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa | Sénateurs | FR | CKOF
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa | Titans | EN | CKDJ
-https://live.leanstream.co/CKDJFM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa | Titans | EN | ****
+https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa | Titans | FR | CJFO
 https://stream2.statsradio.com:8038/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-OwenSound.png" group-title="OHL" radio="true",Owen Sound | Attack | CFOS
@@ -339,7 +339,7 @@ https://goldenwest.leanstream.co/CIMGFM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Toronto.png" group-title="CFL / LCF" radio="true",Toronto | Argonauts | CHUM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/MLB-Toronto.png" group-title="Baseball" radio="true",Toronto | Blue Jays | CJCL
-https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+https://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | Maple Leafs | CJCL
 https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | Maple Leafs | CHUM
