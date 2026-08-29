@@ -38,31 +38,34 @@ https://dai.google.com/linear/hls/pa/event/cErgMRB0TgyH5cZnIo3RQg/stream/c9f2748
 #EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="107"group-title="Canada Français",ICI Télé Ontario | CBLFT
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="TVA"tvg-id="CFTM-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="108"group-title="Canada Français",TVA | CFTM
+#EXTINF:-1 tvg-name="ICI Montréal"tvg-id="ICI.Tele.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="108"group-title="Canada Français",ICI Montréal | CFHD
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
+
+#EXTINF:-1 tvg-name="TVA"tvg-id="CFTM-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="109"group-title="Canada Français",TVA | CFTM
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-#EXTINF:-1 tvg-name="Savoir Média"tvg-id="Savoir.mÃ©dia.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Savoir.png"tvg-chno="109"group-title="Canada Français",Savoir Média | CFTU
+#EXTINF:-1 tvg-name="Savoir Média"tvg-id="Savoir.mÃ©dia.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Savoir.png"tvg-chno="110"group-title="Canada Français",Savoir Média | CFTU
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-name="CHCO St-Andrews (NB)"tvg-id="CHCO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="110"group-title="Canada English",CHCO St-Andrews (NB)
+#EXTINF:-1 tvg-name="CHCO St-Andrews (NB)"tvg-id="CHCO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="111"group-title="Canada English",CHCO St-Andrews (NB)
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="NTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="111"group-title="Canada English",NTV Newfoundland | CJON
+#EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="NTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="112"group-title="Canada English",NTV Newfoundland | CJON
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="112"group-title="Canada English",Knowledge Network | CKNO
+#EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="113"group-title="Canada English",Knowledge Network | CKNO
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="113"group-title="Politique / Politics",CPAC
+#EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"tvg-chno="114"group-title="Politique / Politics",CPAC
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="114"group-title="Canada English",NACTV Neepawa (MB)
+#EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"tvg-chno="115"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
-#EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="115"group-title="Politique / Politics",ONT.PARL EN
+#EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="116"group-title="Politique / Politics",ONT.PARL EN
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="116"group-title="Politique / Politics",ONT.PARL FR
+#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="117"group-title="Politique / Politics",ONT.PARL FR
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1 tvg-name="PBS"tvg-id="WKMJ-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="200"group-title="USA",PBS Kentucky | WKMJ
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
