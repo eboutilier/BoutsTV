@@ -67,6 +67,10 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m
 
 #EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"tvg-chno="117"group-title="Politique / Politics",ONT.PARL FR
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wild TV"tvg-id="WILD.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Wild.png"tvg-chno="118"group-title="Canada English",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100056.m3u8
+
 #EXTINF:-1 tvg-name="PBS"tvg-id="WKMJ-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"tvg-chno="200"group-title="USA",PBS Kentucky | WKMJ
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
