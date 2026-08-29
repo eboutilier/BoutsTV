@@ -38,10 +38,10 @@ https://dai.google.com/linear/hls/pa/event/cErgMRB0TgyH5cZnIo3RQg/stream/c9f2748
 #EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="107"group-title="Canada Français",ICI Télé Ontario | CBLFT
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
 
-#EXTINF:-1 tvg-name="ICI Montréal"tvg-id="ICI.Tele.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="108"group-title="Canada Français",ICI Montréal | CFHD
+#EXTINF:-1 tvg-name="ICI Montréal"tvg-id="ICI.Tele.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITV.png"tvg-chno="108"group-title="Canada Français",ICI Montréal | CFHD
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
 
-#EXTINF:-1 tvg-name="TVA"tvg-id="CFTM-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="109"group-title="Canada Français",TVA | CFTM
+#EXTINF:-1 tvg-name="TVA"tvg-id="CFTM-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVA.png"tvg-chno="109"group-title="Canada Français",TVA | CFTM
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
 #EXTINF:-1 tvg-name="Savoir Média"tvg-id="Savoir.mÃ©dia.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Savoir.png"tvg-chno="110"group-title="Canada Français",Savoir Média | CFTU
