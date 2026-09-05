@@ -30,10 +30,10 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
 #EXTINF:-1 tvg-name="Cable 14 Hamilton"tvg-id="Cable.14.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Cable14.png"tvg-chno="105"group-title="Canada English",Cable 14 Hamilton
-https://cdn3.wowza.com/1/NElBTExQU2pzTjRC/S1JOQ3Bv/hls/5zwkbrhp/1080/chunklist.m3u8
+https://cdn3.wowza.com/1/NElBTExQU2pzTjRC/S1JOQ3Bv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBC Toronto"tvg-id="CBC.Toronto.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png"tvg-chno="106"group-title="Canada English",CBC Toronto | CBLT
-https://dai.google.com/linear/hls/pa/event/cErgMRB0TgyH5cZnIo3RQg/stream/c9f2748e-5fbd-4864-94af-a5a83acd24de:ATL/variant/40fac34221a5aa91523afb72934e4f25/bandwidth/3261054.m3u8
+https://dai.google.com/linear/hls/pa/event/cErgMRB0TgyH5cZnIo3RQg/stream/cf804782-754e-4139-812e-438ebc6d2868:CBF2/variant/40fac34221a5aa91523afb72934e4f25/bandwidth/3261054.m3u8
 
 #EXTINF:-1 tvg-name="ICI Télé Ontario"tvg-id="CBLFT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ICITELE.png"tvg-chno="107"group-title="Canada Français",ICI Télé Ontario | CBLFT
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
@@ -48,7 +48,7 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1 tvg-name="CHCO St-Andrews (NB)"tvg-id="CHCO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCO.png"tvg-chno="111"group-title="Canada English",CHCO St-Andrews (NB)
-https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV Newfoundland"tvg-id="NTV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NTV.png"tvg-chno="112"group-title="Canada English",NTV Newfoundland | CJON
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
