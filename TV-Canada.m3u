@@ -5,7 +5,7 @@ https://
 #EXTINF:-1 tvg-name="Global Thunder Bay"tvg-id="Global.Thunder.Bay.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="4"group-title="Antenne / Antenna",Global Thunder Bay | CHFD
 https://
 
-#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="9"group-title="Antenne / Antenna",TV Ontario | CICO
+#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="9"group-title="Antenne / Antenna",TVO | CICO
 https://
 
 #EXTINF:-1 tvg-name="CHCH"tvg-id="CHCH-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCH.png"tvg-chno="32"group-title="Antenne / Antenna",CHCH
@@ -82,15 +82,15 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-JetFM.png" group-title="North Bay" radio="true",106.3 Jet FM | North Bay | CFXN
 https://vistaradio.streamb.live/SB00100
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-BPM.png" group-title="Francophone" radio="true",BPM Sports 91.9 | Montréal | CKLX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-BPM.png" group-title="Francophone" radio="true",BPM Sports 91.9 | Montréal (QC) | CKLX
 https://stream.bpmsports.ca/cklx.mp3
-#EXTINF:-1 tvg-id="CBC.Radio.One.AM.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CBC.png" group-title="North Bay" radio="true",CBC Radio One 96.1 | North Bay | CBCS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CBC.png" group-title="North Bay" radio="true",CBC Radio One 96.1 | North Bay | CBCS
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBCSFM_CBC.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CINN.png" group-title="Francophone" radio="true",CINN 91.1 | Hearst
 https://stream2.statsradio.com:8050/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKGN.png" group-title="Francophone" radio="true",CKGN 94.7 | Kapuskasing
 https://stream2.statsradio.com:8070/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKVM.png" group-title="Francophone" radio="true",CKVM 93.1 | Ville-Marie
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKVM.png" group-title="Francophone" radio="true",CKVM 93.1 | Ville-Marie (QC)
 https://stream2.statsradio.com:8138/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CFCH.png" group-title="North Bay" radio="true",Country 90.5 | North Bay | CFCH
 https://vistaradio.streamb.live/SB00101
@@ -102,7 +102,7 @@ https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
 https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-Kiss.png" group-title="North Bay" radio="true",Kiss 100.5 | North Bay | CHUR
 https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-LeLoupFM.png" group-title="Francophone" radio="true",Le Loup FM 97.1 | Nipissing | CHYQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-LeLoupFM.png" group-title="Francophone" radio="true",Le Loup 97.1 | Nipissing | CHYQ
 https://stream.statsradio.com:8130/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" "tvg-chno="300" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
 https://stream2.statsradio.com:8120/stream
