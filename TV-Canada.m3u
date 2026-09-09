@@ -59,7 +59,7 @@ https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3
 #EXTINF:-1 tvg-name="Create"tvg-id="WMPT-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"group-title="International",Create | WMPB
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DW"tvg-id="DW.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png"group-title="International",DW
+#EXTINF:-1 tvg-name="DW"tvg-id="DW.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-DW.png"group-title="International",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"group-title="Canada English",NACTV Neepawa (MB)
@@ -71,7 +71,7 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m
 #EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"group-title="Politique / Politics",ONT.PARL FR
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PBS"tvg-id="WGBH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.pnggroup-title="International",PBS Maryland | WMPB
+#EXTINF:-1 tvg-name="PBS"tvg-id="WGBH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"group-title="International",PBS Maryland | WMPB
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wild TV"tvg-id="WILD.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Wild.png"group-title="Canada English",Wild TV
