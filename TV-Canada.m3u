@@ -75,6 +75,20 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100056.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Hearst | CINN FM 91.1 | CINN
+https://stream2.statsradio.com:8050/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Kapuskasing | CKGN FM 94.7 | CKGN
+https://stream2.statsradio.com:8070/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Montréal | BPM Sports 91.9 | CKLX
+https://stream.bpmsports.ca/cklx.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Nipissing Ouest | CHYQ 97.1 | CHYQ
+https://stream.statsradio.com:8130/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png" group-title="Francophone" radio="true",North Bay | Ici Radio-Canada Première 95.1 | CBON
+https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png" group-title="Francophone" radio="true",Sudbury | Ici Musique 90.9 | CBBX
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Ville-Marie | CKVM 93.1 | CKVM
+https://stream2.statsradio.com:8138/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
 https://stream2.statsradio.com:8120/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | Colts | ****
