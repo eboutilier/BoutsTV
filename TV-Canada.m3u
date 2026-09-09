@@ -83,9 +83,9 @@ https://stream2.statsradio.com:8070/stream
 https://stream.bpmsports.ca/cklx.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Nipissing Ouest | CHYQ 97.1 | CHYQ
 https://stream.statsradio.com:8130/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png" group-title="Francophone" radio="true",North Bay | Ici Radio-Canada Première 95.1 | CBON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",North Bay | Ici Radio-Canada Première 95.1 | CBON
 https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CBC.png" group-title="Francophone" radio="true",Sudbury | Ici Musique 90.9 | CBBX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Sudbury | Ici Musique 90.9 | CBBX
 https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/.png" group-title="Francophone" radio="true",Ville-Marie | CKVM 93.1 | CKVM
 https://stream2.statsradio.com:8138/stream
