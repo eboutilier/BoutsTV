@@ -162,8 +162,8 @@ https://live.leanstream.co/CKWSFM-MP3
 https://rogers.leanstream.co/rogers/kit570.stream/icy?environment=tunein
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Lethbridge.png" group-title="WHL" radio="true",Lethbridge | Hurricanes | CJRX
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-London.png" group-title="OHL" radio="true",London | Knights | CFPL
-https://live.leanstream.co/CFPLAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-London.png" group-title="OHL" radio="true",London | Knights | CKLO
+https://live.leanstream.co/CKLOFM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MedicineHat.png" group-title="WHL" radio="true",Medicine Hat | Tigers | CHAT
 https://redirect.jpbgdigital.com/CHAT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Moncton.png" group-title="LHJMQ / QMJHL" radio="true",Moncton | Wildcats | CITA
@@ -268,8 +268,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NWL-Vancouver.png" group-title="Baseball" radio="true",Vancouver | Canadians | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | Canucks | ****
-https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | Canucks | CKKS
+https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8 ↗DIRECT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Vancouver.png" group-title="WHL" radio="true",Vancouver | Giants | ****
 https:/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CHTT
