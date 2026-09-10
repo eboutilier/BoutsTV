@@ -269,7 +269,7 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NWL-Vancouver.png" group-title="Baseball" radio="true",Vancouver | Canadians | ****
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | Canucks | CKKS
-https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8 ↗DIRECT
+https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Vancouver.png" group-title="WHL" radio="true",Vancouver | Giants | ****
 https:/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CHTT
