@@ -104,85 +104,73 @@ https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-LeLoupFM.png" group-title="Francophone" radio="true",Le Loup 97.1 | Nipissing | CHYQ
 https://stream.statsradio.com:8130/stream
-#EXTINF:-1 tvg-logo="" group-title="" radio="true"
+
+#EXTINF:-1 tvg-logo=""tvg-chno="300"group-title="",Maritimes
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | Eagles | CJCB
+https://mbsradio-ais.leanstream.co/CJCBAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Charlottetown.png" group-title="LHJMQ / QMJHL" radio="true",Charlottetown | Islanders | CHLQ
+https://mbsradio.leanstream.co/CHLQFM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Halifax.png" group-title="LHJMQ / QMJHL" radio="true",Halifax | Mooseheads | CFLT
+https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Moncton.png" group-title="LHJMQ / QMJHL" radio="true",Moncton | Wildcats | CITA
+https://harvestersciog.radioca.st/CIOG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Newfoundland.png" group-title="LHJMQ / QMJHL" radio="true",Newfoundland | Regiment | ****
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-SaintJohn.png" group-title="LHJMQ / QMJHL" radio="true",Saint John | Sea Dogs | ****
 https://
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" tvg-chno="300" group-title="Baseball" radio="true",Ottawa | Titans | EN | ****
+#EXTINF:-1 tvg-logo=""tvg-chno="310"group-title="",Québec
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa | Titans | FR | CJFO
-https://stream2.statsradio.com:8038/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Quebec.png" group-title="Baseball" radio="true",Québec | Capitales | CHYZ
-http://ecoutez.chyz.ca:8000/mp3/;
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/MLB-Toronto.png" group-title="Baseball" radio="true",Toronto | Blue Jays | CJCL
-https://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | Aigles | CFOU
-http://radio3.cjrsradio.com:9308/;
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NWL-Vancouver.png" group-title="Baseball" radio="true",Vancouver | Canadians | ****
-https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | EN | CJNU
-https://noasrv.caster.fm:10188/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | FR | CKXL
-http://m01.stream.ustream.ca/ckxl32.mp3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NBA-Toronto.png" "tvg-chno="400" group-title="Basketball" radio="true",Toronto | Raptors | CHUM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-BritishColumbia.png" "tvg-chno="500" group-title="CFL / LCF" radio="true",British Colombia | Lions | CKNW
-https://live.leanstream.co/CKNWAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Calgary.png" group-title="CFL / LCF" radio="true",Calgary | Stampeders | CHQR
-https://corus.leanstream.co/CHQRAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Edmonton.png" group-title="CFL / LCF" radio="true",Edmonton | Elks | CHED
-https://corus.leanstream.co/CHEDAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Hamilton.png" group-title="CFL / LCF" radio="true",Hamilton | Tiger Cats | ****
-https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
+https://stream2.statsradio.com:8120/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Blainville-Boisbriand.png" group-title="LHJMQ / QMJHL" radio="true",Blainville-Boisbriand | Armada | CKLX
+https://stream.bpmsports.ca/cklx.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Chicoutimi.png" group-title="LHJMQ / QMJHL" radio="true",Chicoutimi | Saguenéens | CJAB
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Drummondville.png" group-title="LHJMQ / QMJHL" radio="true",Drummondville | Voltigeurs | CFID
+https://stream02.ustream.ca/cfid32.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Gatineau.png" group-title="LHJMQ / QMJHL" radio="true",Gatineau | Olympiques | CKOF
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Montreal.png" group-title="CFL / LCF" radio="true",Montréal | Alouettes | EN | CKGM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Montreal.png" group-title="CFL / LCF" radio="true",Montréal | Alouettes | FR | CHMP
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Ottawa.png" group-title="CFL / LCF" radio="true",Ottawa | RedBlacks | EN | CFGO
-https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Ottawa.png" group-title="CFL / LCF" radio="true",Ottawa | Rouge et Noir | FR | CKOF
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Saskatchewan.png" group-title="CFL / LCF" radio="true",Saskatchewan | Roughriders | CKRM
-https://aispool.streamon.fm/ais/CKRM.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Toronto.png" group-title="CFL / LCF" radio="true",Toronto | Argonauts | CHUM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Winnipeg.png" group-title="CFL / LCF" radio="true",Winnipeg | Blue Bombers | CJOB
-https://live.leanstream.co/CJOBAM-MP3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" "tvg-chno="600" group-title="NHL / LNH" radio="true",Calgary | Flames | CHQR
-https://live.leanstream.co/CHQRAM-MP3-2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Edmonton.png" group-title="NHL / LNH" radio="true",Edmonton | Oilers | CHED
-https://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Montreal.png" group-title="NHL / LNH" radio="true",Montréal | Canadiens | EN | CKGM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMDROID.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Montreal.png" group-title="NHL / LNH" radio="true",Montréal | Canadiens | FR | CHMP
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa | Senators | EN | CFGO
-https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa | Sénateurs | FR | CKOF
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | Maple Leafs | CJCL
-https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | Maple Leafs | CHUM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | Canucks | CKKS
-https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
-https://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Quebec.png" group-title="Baseball" radio="true",Québec | Capitales | CHYZ
+http://ecoutez.chyz.ca:8000/mp3/;
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Quebec.png" group-title="LHJMQ / QMJHL" radio="true",Québec | Remparts | CHYZ
+http://ecoutez.chyz.ca:8000/mp3/;
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rimouski.png" group-title="LHJMQ / QMJHL" radio="true",Rimouski | Océanic | CIKI
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rouyn-Noranda.png" group-title="LHJMQ / QMJHL" radio="true",Rouyn-Noranda | Huskies | CHUN
+http://radio3.cjrsradio.com:9954/;
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Shawinigan.png" group-title="LHJMQ / QMJHL" radio="true",Shawinigan | Cataractes | CKOB
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Sherbrooke.png" group-title="LHJMQ / QMJHL" radio="true",Sherbrooke | Phœnix | CFLX
+https://stream.statsradio.com:8110/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Trois-Rivieres.png" group-title="Baseball" radio="true",Trois-Rivières | Aigles | CFOU
+http://radio3.cjrsradio.com:9308/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/ECHL-Trois-Rivieres.png" group-title="ECHL" radio="true",Trois-Rivières | Lions | CKOB
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Val-dOr.png" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | Foreurs | ****
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | Tigres | Internet
+https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" "tvg-chno="700" group-title="OHL" radio="true",Barrie | Colts | ****
+#EXTINF:-1 tvg-logo=""tvg-chno="350"group-title="",Ontario
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | Colts | ****
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Brampton.png" group-title="OHL" radio="true",Brampton | Steelheads | CKNT
 https://us1.streamingpulse.com/ssl/7172
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Brantford.png" group-title="OHL" radio="true",Brantford | Bulldogs | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | Otters | WJET
-https://stream.revma.ihrhls.com/zc8290/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Flint.png" group-title="OHL" radio="true",Flint | Firebirds | WQUS
-https://live.amperwave.net/manifest/townsquare-wqusfmaac-hlsc3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Hamilton.png" group-title="CFL / LCF" radio="true",Hamilton | Tiger Cats | ****
+https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Guelph.png" group-title="OHL" radio="true",Guelph | Storm | CJOY
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Kingston.png" group-title="OHL" radio="true",Kingston | Frontenacs | CKWS
@@ -199,101 +187,129 @@ https://
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Ottawa.png" group-title="OHL" radio="true",Ottawa | 67s | CFGO
 https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Ottawa.png" group-title="CFL / LCF" radio="true",Ottawa | RedBlacks | EN | CFGO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Ottawa.png" group-title="CFL / LCF" radio="true",Ottawa | Rouge et Noir | FR | CKOF
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa | Senators | EN | CFGO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Ottawa.png" group-title="NHL / LNH" radio="true",Ottawa | Sénateurs | FR | CKOF
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa | Titans | EN | ****
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/FL-Ottawa.png" group-title="Baseball" radio="true",Ottawa | Titans | FR | CJFO
+https://stream2.statsradio.com:8038/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-OwenSound.png" group-title="OHL" radio="true",Owen Sound | Attack | CFOS
 https://bayshore-ais.leanstream.co/CFOSAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Peterborough.png" group-title="OHL" radio="true",Peterborough | Petes | CJMB
 https://mybroadcasting.streamb.live/SB00333
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Saginaw.png" group-title="OHL" radio="true",Saginaw | Spirit | WSGW
-https://live.amperwave.net/direct/alphacorporate-wsgwammp3-ibc4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sarnia.png" group-title="OHL" radio="true",Sarnia | Sting | CHOK
 https://blackburn.leanstream.co/CHOKAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sault-Ste-Marie.png" group-title="OHL" radio="true",Sault-Ste-Marie | Greyhounds | WSUE
 https://ice24.securenetsystems.net/WSUE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Sudbury.png" group-title="OHL" radio="true",Sudbury | Wolves | CKLU
 http://ckluradio.laurentian.ca:88/broadwave.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Toronto.png" group-title="CFL / LCF" radio="true",Toronto | Argonauts | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/MLB-Toronto.png" group-title="Baseball" radio="true",Toronto | Blue Jays | CJCL
+https://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | Maple Leafs | CJCL
+https://rogers-hls.leanstream.co/rogers/tor590.stream/icy?environment=tunein
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Toronto.png" group-title="NHL / LNH" radio="true",Toronto | Maple Leafs | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NBA-Toronto.png" group-title="Basketball" radio="true",Toronto | Raptors | CHUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Windsor.png" group-title="OHL" radio="true",Windsor | Spitfires | CKLW
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" "tvg-chno="800" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
-https://stream2.statsradio.com:8120/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Blainville-Boisbriand.png" group-title="LHJMQ / QMJHL" radio="true",Blainville-Boisbriand | Armada | CKLX
-https://stream.bpmsports.ca/cklx.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | Eagles | CJCB
-https://mbsradio-ais.leanstream.co/CJCBAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Charlottetown.png" group-title="LHJMQ / QMJHL" radio="true",Charlottetown | Islanders | CHLQ
-https://mbsradio.leanstream.co/CHLQFM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Chicoutimi.png" group-title="LHJMQ / QMJHL" radio="true",Chicoutimi | Saguenéens | CJAB
-https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFM.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Drummondville.png" group-title="LHJMQ / QMJHL" radio="true",Drummondville | Voltigeurs | CFID
-https://stream02.ustream.ca/cfid32.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Gatineau.png" group-title="LHJMQ / QMJHL" radio="true",Gatineau | Olympiques | CKOF
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Halifax.png" group-title="LHJMQ / QMJHL" radio="true",Halifax | Mooseheads | CFLT
-https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Moncton.png" group-title="LHJMQ / QMJHL" radio="true",Moncton | Wildcats | CITA
-https://harvestersciog.radioca.st/CIOG
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Newfoundland.png" group-title="LHJMQ / QMJHL" radio="true",Newfoundland | Regiment | ****
+#EXTINF:-1 tvg-logo=""tvg-chno="380"group-title="",Manitoba
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Quebec.png" group-title="LHJMQ / QMJHL" radio="true",Québec | Remparts | CHYZ
-http://ecoutez.chyz.ca:8000/mp3/;
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rimouski.png" group-title="LHJMQ / QMJHL" radio="true",Rimouski | Océanic | CIKI
-https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Rouyn-Noranda.png" group-title="LHJMQ / QMJHL" radio="true",Rouyn-Noranda | Huskies | CHUN
-http://radio3.cjrsradio.com:9954/;
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-SaintJohn.png" group-title="LHJMQ / QMJHL" radio="true",Saint John | Sea Dogs | ****
-https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Shawinigan.png" group-title="LHJMQ / QMJHL" radio="true",Shawinigan | Cataractes | CKOB
-https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Sherbrooke.png" group-title="LHJMQ / QMJHL" radio="true",Sherbrooke | Phœnix | CFLX
-https://stream.statsradio.com:8110/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Val-dOr.png" group-title="LHJMQ / QMJHL" radio="true",Val-d'Or | Foreurs | ****
-https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | Tigres | Internet
-https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Brandon.png" "tvg-chno="900" group-title="WHL" radio="true",Brandon | Wheat Kings | CKLQ
 https://icy.jpbgdigital.com/CKLQ.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Winnipeg.png" group-title="CFL / LCF" radio="true",Winnipeg | Blue Bombers | CJOB
+https://live.leanstream.co/CJOBAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | EN | CJNU
+https://noasrv.caster.fm:10188/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/AA-Winnipeg.png" group-title="Baseball" radio="true",Winnipeg | Goldeyes | FR | CKXL
+http://m01.stream.ustream.ca/ckxl32.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
+https://live.leanstream.co/CJOBAM-MP3
+
+#EXTINF:-1 tvg-logo=""tvg-chno="390"group-title="",Saskatchewan
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MooseJaw.png" group-title="WHL" radio="true",Moose Jaw | Warriors | CILG
+https://goldenwest.leanstream.co/CILGFM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceAlbert.png" group-title="WHL" radio="true",Prince Albert | Raiders | CKBI
+https://redirect.jpbgdigital.com/CKBI.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Regina.png" group-title="WHL" radio="true",Regina | Pats | CKRM
+https://aispool.streamon.fm/ais/CKRM.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Saskatchewan.png" group-title="CFL / LCF" radio="true",Saskatchewan | Roughriders | CKRM
+https://aispool.streamon.fm/ais/CKRM.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Saskatoon.png" group-title="WHL" radio="true",Saskatoon | Blades | CJWW
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-SwiftCurrent.png" group-title="WHL" radio="true",Swift Current | Broncos | CIMG
+https://goldenwest.leanstream.co/CIMGFM-MP3
+
+#EXTINF:-1 tvg-logo=""tvg-chno="400"group-title="",Alberta
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" "tvg-chno="600" group-title="NHL / LNH" radio="true",Calgary | Flames | CHQR
+https://live.leanstream.co/CHQRAM-MP3-2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Calgary.png" group-title="WHL" radio="true",Calgary | Hitmen | ****
 https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Calgary.png" group-title="CFL / LCF" radio="true",Calgary | Stampeders | CHQR
+https://corus.leanstream.co/CHQRAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Edmonton.png" group-title="CFL / LCF" radio="true",Edmonton | Elks | CHED
+https://corus.leanstream.co/CHEDAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Edmonton.png" group-title="NHL / LNH" radio="true",Edmonton | Oilers | CHED
+https://corus.leanstream.co/CHEDAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Edmonton.png" group-title="WHL" radio="true",Edmonton | Oil Kings | ****
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Everett.png" group-title="WHL" radio="true",Everett | Silvertips | KHEY
-https://stream.revma.ihrhls.com/zc5169/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kamloops.png" group-title="WHL" radio="true",Kamloops | Blazers | CHNL
-https://newcap.leanstream.co/CHNLAM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kelowna.png" group-title="WHL" radio="true",Kelowna | Rockets | CKLZ
-https://stream.jpbgdigital.com/CKLZ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Lethbridge.png" group-title="WHL" radio="true",Lethbridge | Hurricanes | CJRX
 https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MedicineHat.png" group-title="WHL" radio="true",Medicine Hat | Tigers | CHAT
 https://redirect.jpbgdigital.com/CHAT.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MooseJaw.png" group-title="WHL" radio="true",Moose Jaw | Warriors | CILG
-https://goldenwest.leanstream.co/CILGFM-MP3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Penticton.png" group-title="WHL" radio="true",Penticton | Vees | CKOR
-https://maggie.torontocast.com:8142/index
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Portland.png" group-title="WHL" radio="true",Portland | Winterhawks | ****
-https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceAlbert.png" group-title="WHL" radio="true",Prince Albert | Raiders | CKBI
-https://redirect.jpbgdigital.com/CKBI.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceGeorge.png" group-title="WHL" radio="true",Prince George | Cougars | CIRX
-https://vistaradio.streamb.live/SB00066
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-RedDeer.png" group-title="WHL" radio="true",Red Deer | Rebels | CFDV
 https://redirect.jpbgdigital.com/CFDV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Regina.png" group-title="WHL" radio="true",Regina | Pats | CKRM
-https://aispool.streamon.fm/ais/CKRM.aac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Saskatoon.png" group-title="WHL" radio="true",Saskatoon | Blades | CJWW
-https://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAMAAC.aac
+
+#EXTINF:-1 tvg-logo=""tvg-chno="420"group-title="",Colombie-Britannique / British Columbia
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-BritishColumbia.png" group-title="CFL / LCF" radio="true",British Colombia | Lions | CKNW
+https://live.leanstream.co/CKNWAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kamloops.png" group-title="WHL" radio="true",Kamloops | Blazers | CHNL
+https://newcap.leanstream.co/CHNLAM-MP3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Kelowna.png" group-title="WHL" radio="true",Kelowna | Rockets | CKLZ
+https://stream.jpbgdigital.com/CKLZ.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Penticton.png" group-title="WHL" radio="true",Penticton | Vees | CKOR
+https://maggie.torontocast.com:8142/index
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceGeorge.png" group-title="WHL" radio="true",Prince George | Cougars | CIRX
+https://vistaradio.streamb.live/SB00066
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Vancouver.png" group-title="WHL" radio="true",Vancouver | Giants | ****
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/NWL-Vancouver.png" group-title="Baseball" radio="true",Vancouver | Canadians | ****
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | Canucks | CKKS
+https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CHTT
+https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""tvg-chno="440"group-title="",États-Unis / United States
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | Otters | WJET
+https://stream.revma.ihrhls.com/zc8290/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Everett.png" group-title="WHL" radio="true",Everett | Silvertips | KHEY
+https://stream.revma.ihrhls.com/zc5169/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Flint.png" group-title="OHL" radio="true",Flint | Firebirds | WQUS
+https://live.amperwave.net/manifest/townsquare-wqusfmaac-hlsc3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Portland.png" group-title="WHL" radio="true",Portland | Winterhawks | ****
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Saginaw.png" group-title="OHL" radio="true",Saginaw | Spirit | WSGW
+https://live.amperwave.net/direct/alphacorporate-wsgwammp3-ibc4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Seattle.png" group-title="WHL" radio="true",Seattle | Thunderbirds | KJR
 https://stream.revma.ihrhls.com/zc2565/hls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Spokane.png" group-title="WHL" radio="true",Spokane | Chiefs | KGA
 https://ice6.securenetsystems.net/KGA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-SwiftCurrent.png" group-title="WHL" radio="true",Swift Current | Broncos | CIMG
-https://goldenwest.leanstream.co/CIMGFM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-TriCity.png" group-title="WHL" radio="true",Tri-City | Americans | KFLD
 https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Vancouver.png" group-title="WHL" radio="true",Vancouver | Giants | ****
-https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CHTT
-https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Wenatchee.png" group-title="WHL" radio="true",Wenatchee | Wild | ****
 https://
