@@ -204,8 +204,8 @@ https://stream2.statsradio.com:8038/stream
 https://bayshore-ais.leanstream.co/CFOSAM-MP3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Penticton.png" group-title="WHL" radio="true",Penticton | Vees | CKOR
 https://maggie.torontocast.com:8142/index
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Peterborough.png" group-title="OHL" radio="true",Peterborough | Petes | ****
-https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Peterborough.png" group-title="OHL" radio="true",Peterborough | Petes | CJMB
+https://mybroadcasting.streamb.live/SB00333
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Portland.png" group-title="WHL" radio="true",Portland | Winterhawks | ****
 https:/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-PrinceAlbert.png" group-title="WHL" radio="true",Prince Albert | Raiders | CKBI
