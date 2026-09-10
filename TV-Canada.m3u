@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-name="CKPR Thunder Bay"tvg-id="CKPR.Thunder.Bay.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CKPR.png"tvg-chno="2"group-title="Antenne / Antenna",CKPR Thunder Bay
 https://
 
-#EXTINF:-1 tvg-name="Global Thunder Bay"tvg-id="Global.Thunder.Bay.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="4"group-title="Antenne / Antenna",Global Thunder Bay | CHFD
+#EXTINF:-1 tvg-name="Global Thunder Bay"tvg-id="Global.Thunder.Bay.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Global.png"tvg-chno="4"group-title="Antenne / Antenna",Global Thunder Bay
 https://
 
-#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="9"group-title="Antenne / Antenna",TVO | CICO
+#EXTINF:-1 tvg-name="TVO"tvg-id="TVO.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVO.png"tvg-chno="9"group-title="Antenne / Antenna",TVO
 https://
 
 #EXTINF:-1 tvg-name="CHCH"tvg-id="CHCH-DT.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CHCH.png"tvg-chno="32"group-title="Antenne / Antenna",CHCH
@@ -53,10 +53,10 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="112"group-title="Canada English",Knowledge Network | CKNO
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"group-title="Politique / Politics",CPAC
+#EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"group-title="Canada English",CPAC
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Create"tvg-id="WMPT-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"group-title="International",Create | WMPB
+#EXTINF:-1 tvg-name="Create"tvg-id="WMPT-DT.us_locals1"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Create.png"group-title="International",Create | WMPB
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DW"tvg-id="DW.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-DW.png"group-title="International",DW
@@ -65,10 +65,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
-#EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"group-title="Politique / Politics",ONT.PARL EN
+#EXTINF:-1 tvg-name="ONT.PARL EN"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"group-title="Canada English",ONT.PARL EN
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"group-title="Politique / Politics",ONT.PARL FR
+#EXTINF:-1 tvg-name="ONT.PARL FR"tvg-id="Ontario.Legislature.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ONT.png"group-title="Canada Français",ONT.PARL FR
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PBS"tvg-id="WGBH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"group-title="International",PBS Maryland | WMPB
@@ -98,7 +98,7 @@ https://vistaradio.streamb.live/SB00101
 https://rogers-hls.leanstream.co/rogers/nor600.stream/icy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-ICIMusique.png" group-title="Francophone" radio="true",Ici Musique 90.9 | Sudbury | CBBX
 https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-ICIPremière.png" group-title="Francophone" radio="true",Ici Radio-Canada Première 95.1 | North Bay | CBON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-ICIPremière.png" group-title="Francophone" radio="true",Ici Première 95.1 | North Bay | CBON
 https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-Kiss.png" group-title="North Bay" radio="true",Kiss 100.5 | North Bay | CHUR
 https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
