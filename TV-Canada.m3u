@@ -105,7 +105,7 @@ https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-LeLoupFM.png" group-title="Francophone" radio="true",Le Loup 97.1 | Nipissing | CHYQ
 https://stream.statsradio.com:8130/stream
 
-#EXTINF:-1 tvg-name="Maritimes"tvg-logo=""tvg-chno="300"group-title="",Maritimes
+#EXTINF:-1 tvg-name="Maritimes"tvg-logo=""tvg-chno="300"group-title=""radio="true",Maritimes
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | Eagles | CJCB
 https://mbsradio-ais.leanstream.co/CJCBAM-MP3
