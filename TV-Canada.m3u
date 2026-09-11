@@ -91,7 +91,7 @@ https://rogers-hls.leanstream.co/rogers/nor600.stream/icy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-Kiss.png" group-title="North Bay" radio="true",Kiss 100.5 | North Bay | CHUR
 https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
 
-#EXTINF:-1 "tvg-logo=""tvg-chno="220"group-title=""radio="true",FRANCOPHONE
+#EXTINF:-1 tvg-logo=""tvg-chno="220"radio="true",Francophone
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-BPM.png" group-title="Francophone" radio="true",BPM Sports 91.9 | Montréal (QC) | CKLX
 https://stream.bpmsports.ca/cklx.mp3
