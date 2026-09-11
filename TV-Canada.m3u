@@ -53,6 +53,9 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Knowledge Network"tvg-id="Knowledge.Network.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Knowledge.png"tvg-chno="112"group-title="Canada English",Knowledge Network | CKNO
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
+#EXTINF:-1 tvg-name="Assemblée nationale du Québec"tvg-id="ASSEMBLÃ‰E.NATIONALE.(CF.Cable.TV).ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-ASSNA.png"group-title="Canada Français",Assemblée nationale du Québec
+https://cdn3.wowza.com/5/bkFzbG5oWS9QSisz/diffusion/canal17/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="CPAC EN"tvg-id="Cable.Public.Affairs.Channel.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-CPAC.png"group-title="Canada English",CPAC
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
