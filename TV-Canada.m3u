@@ -296,7 +296,7 @@ https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 
 
-#EXTINF:-1 "tvg-logo=""tvg-chno="370"group-title=""radio="true",ÉTATS-UNIS / UNITED STATES
+#EXTINF:-1 "tvg-logo=""tvg-chno="370"group-title=""radio="true",ÉU / US
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | Otters | WJET
 https://stream.revma.ihrhls.com/zc8290/hls.m3u8
