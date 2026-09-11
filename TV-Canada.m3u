@@ -274,7 +274,7 @@ https://redirect.jpbgdigital.com/CHAT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-RedDeer.png" group-title="WHL" radio="true",Red Deer | Rebels | CFDV
 https://redirect.jpbgdigital.com/CFDV.m3u8
 
-#EXTINF:-1 "tvg-logo=""tvg-chno="350"group-title=""radio="true",COLOMBIE-BRITANNIQUE / BRITISH COLUMBIA
+#EXTINF:-1 "tvg-logo=""tvg-chno="350"group-title=""radio="true",CB / BC
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-BritishColumbia.png" group-title="CFL / LCF" radio="true",British Colombia | Lions | CKNW
 https://live.leanstream.co/CKNWAM-MP3
