@@ -105,7 +105,7 @@ https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-LeLoupFM.png" group-title="Francophone" radio="true",Le Loup 97.1 | Nipissing | CHYQ
 https://stream.statsradio.com:8130/stream
 
-#EXTINF:-1 tvg-logo=""tvg-chno="300"group-title="",Maritimes
+#EXTINF:-1 tvg-name="Maritimes"tvg-logo=""tvg-chno="300"group-title="",Maritimes
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | Eagles | CJCB
 https://mbsradio-ais.leanstream.co/CJCBAM-MP3
@@ -224,7 +224,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u
 
 #EXTINF:-1 tvg-logo=""tvg-chno="380"group-title="",Manitoba
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Brandon.png" "tvg-chno="900" group-title="WHL" radio="true",Brandon | Wheat Kings | CKLQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Brandon.png" group-title="WHL" radio="true",Brandon | Wheat Kings | CKLQ
 https://icy.jpbgdigital.com/CKLQ.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-Winnipeg.png" group-title="CFL / LCF" radio="true",Winnipeg | Blue Bombers | CJOB
 https://live.leanstream.co/CJOBAM-MP3
@@ -252,7 +252,7 @@ https://goldenwest.leanstream.co/CIMGFM-MP3
 
 #EXTINF:-1 tvg-logo=""tvg-chno="400"group-title="",Alberta
 https://
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" "tvg-chno="600" group-title="NHL / LNH" radio="true",Calgary | Flames | CHQR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" group-title="NHL / LNH" radio="true",Calgary | Flames | CHQR
 https://live.leanstream.co/CHQRAM-MP3-2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Calgary.png" group-title="WHL" radio="true",Calgary | Hitmen | ****
 https://
