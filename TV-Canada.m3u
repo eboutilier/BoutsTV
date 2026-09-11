@@ -82,30 +82,33 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-JetFM.png" group-title="North Bay" radio="true",106.3 Jet FM | North Bay | CFXN
 https://vistaradio.streamb.live/SB00100
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-BPM.png" group-title="Francophone" radio="true",BPM Sports 91.9 | Montréal (QC) | CKLX
-https://stream.bpmsports.ca/cklx.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CBC.png" group-title="North Bay" radio="true",CBC Radio One 96.1 | North Bay | CBCS
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBCSFM_CBC.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CFCH.png" group-title="North Bay" radio="true",Country 90.5 | North Bay | CFCH
+https://vistaradio.streamb.live/SB00101
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKAT.png" group-title="North Bay" radio="true",Country 600 | North Bay | CKAT
+https://rogers-hls.leanstream.co/rogers/nor600.stream/icy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-Kiss.png" group-title="North Bay" radio="true",Kiss 100.5 | North Bay | CHUR
+https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
+
+#EXTINF:-1 "tvg-logo=""tvg-chno="220"group-title=""radio="true",
+https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-BPM.png" group-title="Francophone" radio="true",BPM Sports 91.9 | Montréal (QC) | CKLX
+https://stream.bpmsports.ca/cklx.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CINN.png" group-title="Francophone" radio="true",CINN 91.1 | Hearst
 https://stream2.statsradio.com:8050/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKGN.png" group-title="Francophone" radio="true",CKGN 94.7 | Kapuskasing
 https://stream2.statsradio.com:8070/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKVM.png" group-title="Francophone" radio="true",CKVM 93.1 | Ville-Marie (QC)
 https://stream2.statsradio.com:8138/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CFCH.png" group-title="North Bay" radio="true",Country 90.5 | North Bay | CFCH
-https://vistaradio.streamb.live/SB00101
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-CKAT.png" group-title="North Bay" radio="true",Country 600 | North Bay | CKAT
-https://rogers-hls.leanstream.co/rogers/nor600.stream/icy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-ICIMusique.png" group-title="Francophone" radio="true",Ici Musique 90.9 | Sudbury | CBBX
 https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-ICIPremière.png" group-title="Francophone" radio="true",Ici Première 95.1 | North Bay | CBON
 https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-Kiss.png" group-title="North Bay" radio="true",Kiss 100.5 | North Bay | CHUR
-https://rogers-hls.leanstream.co/rogers/nor1005.stream/48k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-LeLoupFM.png" group-title="Francophone" radio="true",Le Loup 97.1 | Nipissing | CHYQ
 https://stream.statsradio.com:8130/stream
 
-#EXTINF:-1 "tvg-logo=""tvg-chno="300"group-title=""radio="true",Maritimes
+#EXTINF:-1 "tvg-logo=""tvg-chno="240"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-CapeBreton.png" group-title="LHJMQ / QMJHL" radio="true",Cape Breton | Eagles | CJCB
 https://mbsradio-ais.leanstream.co/CJCBAM-MP3
@@ -120,7 +123,7 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-SaintJohn.png" group-title="LHJMQ / QMJHL" radio="true",Saint John | Sea Dogs | ****
 https://
 
-#EXTINF:-1 tvg-logo=""tvg-chno="310"group-title="",Québec
+#EXTINF:-1 "tvg-logo=""tvg-chno="260"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Baie-Comeau.png" group-title="LHJMQ / QMJHL" radio="true",Baie-Comeau | Drakkar | CHLC
 https://stream2.statsradio.com:8120/stream
@@ -161,7 +164,7 @@ https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LHJMQ-Victoriaville.png" group-title="LHJMQ / QMJHL" radio="true",Victoriaville | Tigres | Internet
 https://radiotigres.quebecinternet.com/radiotigres/stream.m3u8
 
-#EXTINF:-1 tvg-logo=""tvg-chno="350"group-title="",Ontario
+#EXTINF:-1 "tvg-logo=""tvg-chno="300"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Barrie.png" group-title="OHL" radio="true",Barrie | Colts | ****
 https://
@@ -222,7 +225,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM_ADP.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Windsor.png" group-title="OHL" radio="true",Windsor | Spitfires | CKLW
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAM_ADP.m3u8
 
-#EXTINF:-1 tvg-logo=""tvg-chno="380"group-title="",Manitoba
+#EXTINF:-1 "tvg-logo=""tvg-chno="360"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Brandon.png" group-title="WHL" radio="true",Brandon | Wheat Kings | CKLQ
 https://icy.jpbgdigital.com/CKLQ.aac
@@ -235,7 +238,7 @@ http://m01.stream.ustream.ca/ckxl32.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Winnipeg.png" group-title="NHL / LNH" radio="true",Winnipeg | Jets | CJOB
 https://live.leanstream.co/CJOBAM-MP3
 
-#EXTINF:-1 tvg-logo=""tvg-chno="390"group-title="",Saskatchewan
+#EXTINF:-1 "tvg-logo=""tvg-chno="380"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-MooseJaw.png" group-title="WHL" radio="true",Moose Jaw | Warriors | CILG
 https://goldenwest.leanstream.co/CILGFM-MP3
@@ -250,7 +253,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CJWWAMAAC.aac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-SwiftCurrent.png" group-title="WHL" radio="true",Swift Current | Broncos | CIMG
 https://goldenwest.leanstream.co/CIMGFM-MP3
 
-#EXTINF:-1 tvg-logo=""tvg-chno="400"group-title="",Alberta
+#EXTINF:-1 "tvg-logo=""tvg-chno="400"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Calgary.png" group-title="NHL / LNH" radio="true",Calgary | Flames | CHQR
 https://live.leanstream.co/CHQRAM-MP3-2
@@ -271,7 +274,7 @@ https://redirect.jpbgdigital.com/CHAT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-RedDeer.png" group-title="WHL" radio="true",Red Deer | Rebels | CFDV
 https://redirect.jpbgdigital.com/CFDV.m3u8
 
-#EXTINF:-1 tvg-logo=""tvg-chno="420"group-title="",Colombie-Britannique / British Columbia
+#EXTINF:-1 "tvg-logo=""tvg-chno="420"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LCF-BritishColumbia.png" group-title="CFL / LCF" radio="true",British Colombia | Lions | CKNW
 https://live.leanstream.co/CKNWAM-MP3
@@ -293,7 +296,7 @@ https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""tvg-chno="440"group-title="",États-Unis / United States
+#EXTINF:-1 "tvg-logo=""tvg-chno="440"group-title=""radio="true",
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | Otters | WJET
 https://stream.revma.ihrhls.com/zc8290/hls.m3u8
