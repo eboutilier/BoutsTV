@@ -292,16 +292,16 @@ https://
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/LNH-Vancouver.png" group-title="NHL / LNH" radio="true",Vancouver | Canucks | CKKS
 https://rogers.leanstream.co/rogers/van1049.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | CHTT
-https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Victoria.png" group-title="WHL" radio="true",Victoria | Royals | ****
+https://
 
 
 #EXTINF:-1 "tvg-logo=""tvg-chno="370"group-title=""radio="true",ÉU / US
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Erie.png" group-title="OHL" radio="true",Erie | Otters | WJET
 https://stream.revma.ihrhls.com/zc8290/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Everett.png" group-title="WHL" radio="true",Everett | Silvertips | KHEY
-https://stream.revma.ihrhls.com/zc5169/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Everett.png" group-title="WHL" radio="true",Everett | Silvertips | KRKO
+https://ophanim.net:8444/s/9400
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/OHL-Flint.png" group-title="OHL" radio="true",Flint | Firebirds | WQUS
 https://live.amperwave.net/manifest/townsquare-wqusfmaac-hlsc3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Portland.png" group-title="WHL" radio="true",Portland | Winterhawks | ****
@@ -314,5 +314,5 @@ https://stream.revma.ihrhls.com/zc2565/hls.m3u8
 https://ice6.securenetsystems.net/KGA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-TriCity.png" group-title="WHL" radio="true",Tri-City | Americans | KFLD
 https://live.amperwave.net/direct/townsquare-kfldamaac-ibc3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Wenatchee.png" group-title="WHL" radio="true",Wenatchee | Wild | ****
-https://
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/WHL-Wenatchee.png" group-title="WHL" radio="true",Wenatchee | Wild | KPQ
+https://prod-3-89-205-60.amperwave.net/townsquare-kpqamaac-hlsc3.m3u8
