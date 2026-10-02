@@ -80,6 +80,9 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m
 #EXTINF:-1 tvg-name="PBS"tvg-id="WGBH.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-PBS.png"group-title="International",PBS Maryland | WMPB
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TVCTK Témiscaming (QC)"tvg-id=""tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-TVCTK.png"group-title="Canada English",TVCTK Témiscaming (QC)
+https://euc13.playlist.ttvnw.net/v1/playlist/Cu4EBf4OHQ6Jm39IaJGd_vNKrgc_czVmSXCvOm6ztLy7c04t8D4dpZcQVRRMZcep2Fei0NPpC0v3KUHVNiMsHwaBOekynTdb5lzfAHeMukA_L20QD7MYoolWIDMA1FB9R3tAF32XcLyCkqCKYS6TZrZaEcNHgMQpJ5p0yPaaQGcunGTWbl4rXOqFLWd_Z1XzUmYTCSDhfOVWG99yfGXDR7uHGXwYgU9G-MhhPX_I-OZ8L7tqUaXzM-KuCDJXLnKZSaQoj91M7Hq-wRXh4kXcdQLDC2rzS9PsleW5zbJuffVty8F91GWH8N0iJwhzWLMKmcV4shq-ZYciWObdlpOThMil-2oIFU8GYAQZSlkyS9O0syDXl4glKDhUgfambo40qBHBvvPPcL7skxvDZGI-vHoq83qEACTI_8_6VNdpRVJd87_loVaMR-lz_EvQxhB5Q9vAk-qvSNdcXZkcnys-n0SoZXK0Z3Pca4jwLwPsRbEqAqMppZOLtH90ckwPmKHCmTtrK6jpiOe17HBHqpc3tRGUmrsSmLjBOffSC5LA288OJVdEgvuGH74Z4NtIyv_SLIgSpIO6nxc4rOFfLrLgqUgGRKY15Wz_5yfDBxwpsDS0miCRd3pTqw_1htYWC112oKIAFhiGOnRJAxp3zmyBDvulhYYB5Jdf216i52acnNM0S6XVAgrej_-Tp-DleMCOGCOW5x3LofkNu1D5XxsuWao920go1DatZZr7pM8S59t0d9oTb7dfT4IsA1-8Frk0aoXFVe-ntPvtbqGkjbZTvFFhpnU_LYGnNGaxOsqGX3YF-j9d5uwoALvbbpIS3dCbSBoMppSJgChSqm8g-GLTIAEqCWV1LXdlc3QtMjCdEA.m3u8
+
 #EXTINF:-1 tvg-name="Wild TV"tvg-id="WILD.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-Wild.png"group-title="Canada English",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100056.m3u8
 
