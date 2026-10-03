@@ -84,7 +84,7 @@ https://euc13.playlist.ttvnw.net/v1/playlist/Cu4EBf4OHQ6Jm39IaJGd_vNKrgc_czVmSXC
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100056.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo=""tvg-chno="210"radio="true",NORTH BAY
+#EXTINF:-1 tvg-logo=""tvg-chno="200"radio="true",NORTH BAY
 https://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/Radio-Fox.png" group-title="North Bay" radio="true",101.9 The Fox | CKFX
 https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
