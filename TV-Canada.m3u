@@ -62,6 +62,9 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-name="DW"tvg-id="DW.HD.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-DW.png"group-title="International",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-name="Game Show Network"tvg-id="Game.Show.Network.ca2"tvg-logo=""group-title="Canada English",Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NACTV Neepawa (MB)"tvg-id="Neepawa.Access.TV.ca2"tvg-logo="https://raw.githubusercontent.com/eboutilier/BoutsTV/main/TV-NACTV.png"group-title="Canada English",NACTV Neepawa (MB)
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 
